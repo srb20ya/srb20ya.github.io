@@ -1,0 +1,23 @@
+Rules -
+ 
+1. To enter the competition, you must beat the Sonic Robo Blast II: Haloween Test level as quickly as possible and send in a demo to prove it, to do this, go to the DOS Prompt and go to your SRB2 folder and run 'recween.bat', which will record a demo of the level. To stop recording, when you beat the level (at the score screen after you cross the finish post), after the score-countup screen, quit the game. To test and see if your demo came out, run the following in the DOS Prompt in your SRB2:HT folder:
+ 
+srb2ween.exe -playdemo mydemo
+
+Please make only ONE run of the level - if you make a mistake, do NOT use 'New game' to restart - see Rule #4 below.
+ 
+When you're satisfied with your entry, send it to johnny@sonikku.freeserve.co.uk
+ 
+2. If you have made an improved time, you may re-submit your entry to the addresses given above.
+ 
+3. You may no use any of the cheat codes (including modifying the config.sys file and changing the gravity level or other console commands to your advantage.) - use your own skill!
+
+4. PLEASE only record one run on the .lmp (i.e, no using the 'New Game' option to restart) - if you make a mistake, quit the game and re-run recween.bat, anyone doing this will have their entry IGNORED ENTIRELY!
+
+5. As a tie-breaker, if two players get the same time, the winner is determined by the highest Kills / Secrets / Items score.
+
+6. As we have uploaded demos, don't 'rip' other peoples demos, i.e, download them and claim them to be 'yours'.
+
+7. Please state whether or not you'd like us to upload your demo!
+
+8. Good luck!

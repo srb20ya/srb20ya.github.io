@@ -1,0 +1,524 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19970714::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>Blank</TITLE>
+  </HEAD>
+  
+  <BODY>
+    
+    <P ALIGN="CENTER"><FONT FACE="Book Antiqua" SIZE="+2"><FONT FACE="Verdana">Sonic's
+      White Glove Diaries -</FONT></FONT></P>
+    
+    <P ALIGN="CENTER"><FONT FACE="Book Antiqua" SIZE="+2"><FONT FACE="Verdana"><FONT SIZE="-2">Updated
+      and maintained by Johnny 'Sonikku' Wallbank and A.J Freda</FONT></FONT></FONT></P>
+    
+    <P ALIGN="LEFT"><FONT FACE="Book Antiqua" SIZE="+2"><FONT FACE="Verdana" SIZE="-2" COLOR="#FF0000"><I><B></B></I></FONT></FONT></P>
+    
+    <P ALIGN="LEFT"><FONT FACE="Book Antiqua" SIZE="+2"><FONT FACE="Verdana" SIZE="-2" COLOR="#FF0000"><I><B>15th
+      December 1999<FONT COLOR="#400040"></FONT></B></I></FONT></FONT></P>
+    
+    <P ALIGN="LEFT"><I><FONT FACE="Verdana">TUTORIAL - Making an SRB Level:
+      Part 1.</FONT></I></P>
+    
+    <P ALIGN="LEFT"></P>
+    
+    <P><FONT FACE="Verdana"><B>UPDATE 6/1/2000: </B>It appears that WADAuthor
+      doesn't like the doom2.wad given in SRB2:HT, therefore, you will need to
+      also download the real doom2.wad (from 'DooM II') to use the level editor.
+      Get it <A HREF="http://stjr.segasonic.net/levels">here</A>... we now
+      return you to normal White Glove Diarying (?!?)</FONT><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">You've heard me blabble on for the past month or
+      two now on making levels and add-ons. 'Yeah? Where's the proof?' You're
+      thinking? Right here. This tutorial is pretty big, so I'll split it up
+      into two parts - this part will cover the fundamentals and basics - if you
+      want to go on further, you'll NEED to read this and understand it. Yes,
+      it's boring reading the docs... no-one really likes it. But it's how me
+      and AJ started level editing, and sadly - there isn't any other way.
+      Sorry!</FONT></P>
+    
+    <P><FONT FACE="Verdana"><B></B></FONT></P>
+    
+    <P><FONT FACE="Verdana"><B>STUFF YOU'LL NEED:</B></FONT></P>
+    
+    <P><FONT FACE="Verdana"><B></B></FONT></P>
+    
+    <P><FONT FACE="Verdana">Firstly - you'll need to download
+      <A HREF="..\..\download\srb2\srb2ween.zip" TARGET="">SRB2:HT from here</A>,
+      and <A HREF="..\..\download\misc\wauthor.zip" TARGET="">WADAuthor from
+        here</A>. The last thing you'll need a special srb2.wcf file that's
+      included in this .zip, if it didn't make it,
+      <A HREF="..\..\download\misc\srb2.wcf" TARGET="">grab it here</A>.
+      WADAuthor is the level editor I'll be using to cover this, but if you
+      prefer DCK, we'll add a .zip of that in the near future - the techniques
+      used are still similar in most cases.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">When the editor asks for your DooM2 set-up, just
+      point it to your SRB2: Haloween Test folder and open doom2.wad when it
+      asks where the main IWAD file is, and should be happy with that (the level
+      editor was designed for DooM levels, but we adapted to using it for SRB2!)</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">To use this tutorial, you're going to need about
+      half an hour of free time, and have saved this onto your hard disk drive
+      for easy reference, so go ahead and save it now. For the various steps,
+      we've produced special step-by-step .WAD files, which show you what the
+      finished product should look like (obviously not counting increasing the
+      room sizes - which won't make a difference, etc.).</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><B><A HREF="tutr1_01.wad" TARGET="">STEP 1:</A>
+      </B>After setting up the Level Editor, goto 'File_New' and get started!
+      For the first step, we'll just make a simple box-room with somewhere for
+      Sonic to start. Not exactly the most adrenaline rushing of levels, but
+      it's where all the SRB2 levels we make start off as being.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">One last check until we get going. Right click
+      anywhere on the empty grid and go to properties, and check that 'Include
+      any files in external document' is set to 'doom2.wad' as seen in your SRB2
+      folder.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Right-click anywhere in the on the grid, and
+      you'll get a box, with the first three options being something like this:</FONT></P>
+    
+    <P><FONT FACE="Verdana">'New Rectangular Sector'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'New Polygonal Sector'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'New Thing'</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Goto the top option ('New Rectangular Sector') and
+      select it. From here, you'll be asked to specify sizes, etc. Just ignore
+      this - you're about to change this in a minute. You now have the birth of
+      your level - a tiny box. Press 'L' to enter 'Linedef mode' (what those
+      little white lines are around your box) and click and drag the lines out
+      to make a simple box.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Next thing you'll need to do is set the textures -
+      left-click on a linedef to select it, and right-click to bring up the menu
+      again, goto 'Properties' and from here you'll be given a big selection of
+      options. To the right, you'll see three panels in a 'Sidebox' window with:
+      ABOVE, MAIN and BELOW and three empty boxes with a cross through them.
+      Make sure the 'Front/Back' options are set to Front and then goto 'MAIN'
+      and select the 'GFZROCK' texture (the one you see around the SRB2:HT
+      level) and click 'OK'. Do this for the other three - or more simply, if
+      you're confident with this, select them all, (drag n' drop or press Ctrl +
+      Left Click to select the other three) and set the 'MAIN' texture to
+      GFZROCK - don't worry about the other options, we'll get onto those as we
+      go on.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Theoretically, you don't need to do this - you can
+      actually run the level, but unless you want your levels to resemble a bad,
+      wobbly, LSD trip, (think of the Hidden Palace Zone in Sonic 2 Final...
+      only worse. =P) it's not recommended.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Next, we need to set the Floor / Ceiling heights
+      for this box-sector. They should already be at Ceiling: 128 and Floor: 0,
+      but we'd better just check. Go to the box, and press 'S' to enter 'Sector
+      mode'. (The actual box) - Select it by left clicking, then right click to
+      bring up the menu and goto 'Properties'. There we are - we can change the
+      height if they're not the values I mentioned earlier. However, you will
+      have to do some work here - You'll see 'CEILING' and 'FLOOR' in the Sector
+      menu, and you'll have to get textures for these too. For the ceiling, go
+      for 'F_SKY1' (the standard sky texture), and for the floor, pick FLOOR0_6
+      (the grassy floor texture). Click 'OK'.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">We're almost ready to run the levels. One last
+      thing to do is to add a Player Start. You WILL need this, otherwise - in
+      most cases, the level will just crash. (or produce another 'Hidden Palace
+      Zone' effect, with you starting slap-bang in the middle of a wall, several
+      hundred miles away from where you intended the player to start.)</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">To do this, right click outside the box and make
+      sure no lines or sectors have been selected, right click and create a 'New
+      Thing'. Goto the 'Player' option and then select the 'Player 1 Start'.
+      Drag n' drop this INTO your box (if it's outside, you'll be trapped inside
+      the walls and not be able to move).</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Right! Now to run the level! Save this file as
+      'mylevel.wad' or something more creative, but from now on, we'll refer to
+      it as- 'mylevel.wad'... a word of warning - don't call it 'doom2.wad' or
+      'doom3.wad' or you WILL NOT BE ABLE TO PLAY SRB2: HALOWEEN TEST. You will
+      over-write the main data files and the game will probably crash or freeze
+      if you load it. Then, after copying it, type this in the DOS prompt (or
+      use 'Run' from the Start menu)!</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><I>srb2ween -file mylevel.wad -warp 01</I></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">This will skip the intro screen and just get you
+      started on your level! Congratulations! You've now made a level! Although
+      it's not exactly very good, but it's a start!</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><B><A HREF="tutr2_01.wad">STEP 2:</A> </B>Admittely,
+      the level is very boring. You might get fun out of it for 5 seconds, while
+      you look around and say &quot;Yay! I made my own SRB2 level!&quot; - but
+      after that, the fun ends. Time to add a few features!</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">For ease of making new sectors - it's best to add
+      the these settings as a 'motif', which means every new sector you create
+      for now on will have the same style as your first room - this also
+      includes ceiling/floor height, so it doesn't do all the work for you! Goto
+      Tools_Motif. When the Motif Menu comes up, set 'Above/Main/Below' textures
+      to 'GFZROCK' - set the Ceiling to 'F_SKY', set the Floor to 'FLOOR0_6' and
+      use '512' as your default ceiling height and '0' as your default floor
+      height. Give your motif an original and easy-to-find name like 'Spooky
+      SRB2HT sectors!' - if you plan to continue using WADAuthor and make more
+      levels, and just keep calling them '(new motif name)' - then you're going
+      to have a hell of a job finding which one is the DarkCity zone textures,
+      and which one motif gave you a nice row of rocky walls, etc.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Things get a little more complicated as you begin
+      editing the below textures. Right click INSIDE the box (you might have to
+      make it a little bigger to accomodate the new platform and make it about
+      128 units length and breadth. (Use 'Snap to Grid' if it helps - it's shown
+      by a little icon in the top with a star next to the corner of a grid)</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">You're going to raise this block and make it a
+      platform, so make sure you're in sector mode ('S' key, if you forgot!)
+      then right click on the box and go to 'Properties' (or just double click
+      on the box) and increase the floor height to 64 - in turn you'll have to
+      increase the ceiling height for both of the sectors, try 256.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Right! All set? 'Wait! What about the MAIN
+      texture?' you're thinking? Don't bother with that - however we'll need to
+      add a texture (or face LSD-platforms)... let's have a quick look at how
+      the texture system works. You have three texture faces to pick - 'ABOVE',
+      'MAIN' and 'BELOW'. Here's a very quick diagram.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">N.B: You can use WadAuthor's special 'Bug Fix' to
+      sort these out automatically - but it's far better to learn this in case
+      something goes wrong!</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">|</FONT></P>
+    
+    <P><FONT FACE="Verdana">|</FONT></P>
+    
+    <P><FONT FACE="Verdana">=</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">=</FONT></P>
+    
+    <P><FONT FACE="Verdana">|</FONT></P>
+    
+    <P><FONT FACE="Verdana">|= = = = =</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Presuming we go back to 2D-land here. The wall
+      ABOVE the entrance to the hole is the 'ABOVE' texture. Even if it's only a
+      single 'fracunit' away from the ceiling, it should be there (unless you're
+      trying to make a fake 'invisible' ceiling or trying to do some other neat
+      effect) - to be technical, everything ABOVE the linedef will need a
+      texture, or in slightly less technical terms, everything from the ceiling
+      needs a texture.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">The wall BELOW the entrance to the hole is the
+      'BELOW' texture. Even if the it's only a single 'fracunit' away from the
+      floor, it should be there (unless you're trying to make a fake 'invisible'
+      floor or some other neat effect) - to be technical, everything BELOW the
+      linedef will need a texture, or in slightly less technical terms,
+      everything from the floor needs a texture. (Bet you didn't see that
+      coming! ;-D).</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">So, for this platform, 64 fracunits from the
+      floor, it'll need a 'BELOW' texture. So far so good (probably not - it
+      takes a while to get used to this!) - &quot;Wait! What about that '-' that
+      sticking out of the middle of the line? Is that vitally important?&quot;</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Yes. If the previous paragraph didn't cause your
+      brain to explode in a big, bloody heap - this definately will! (Therefore
+      STJr cannot accept no liability if your brain explodes.) You'll have to
+      now work out if you change the texture for the FRONT or BACK... the
+      sidedefs. Ouch. You can work this out by looking at that little dash.
+      It'll probably be pointing inwards to the platform. So what do you do?
+      Here's where things get confusing! If it pointing INWARDS into the box,
+      then you must set the BACK sidedef to a texture. If it is pointing
+      OUTWARDS from the box (towards the bigger sector) then you must set the
+      FRONT sidedef to a texture. Don't get it? Re-read it a few times and look
+      at these pics! (Sorry about the godawful color scheme, but Paint was
+      having a bad day... as usual. ;-D)</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><IMG SRC="tdiag01.gif" ALT="Sidedef Diagram 1" WIDTH="640" HEIGHT="480"></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT><IMG SRC="tdiag02.gif" ALT="Sidedef Diagram 2" WIDTH="640" HEIGHT="480"></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Done that? Don't worry - that's about the hardest
+      aspect of the tutorial covered! If you get into real problems, just use
+      Bug Fix. In fact, to save time, that's what we'll do for the next block.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><A HREF="tutr2_01.wad"><B>STEP 3:</B></A> Now,
+      before you open fire on me with those gratitous weapons of mass
+      destruction, lemme explain why I suggested you learn the above step
+      instead of using 'Create New Block', 'Bug Fix', 'Fix All', 'Yay.'</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">If all programs worked perfectly, we'd be in
+      virtual heaven. We'd never need to worry about memory leaks (in fact, this
+      has crashed on me at least once up to this point while I've been writing
+      it.), that nasty General Protection guy who keeps giving us faults, and
+      MKXM92_2.DLL which has caused an illegal operation and will be closed down
+      regardless of how many hours work you've done. We'd not need to worry
+      about re-installing Windows, and we'd all do the Sonic Adventure Time
+      Trials a lot quicker.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Sadly, this isn't Dreamworld. Programs can and
+      will crash / do screwy things / &quot;Whoops! That 'blow up half the
+      level' option wasn't what 'New File' normally does!&quot;. Sometimes when
+      you use Bug Fix, it can create some major bugs, not just the little 'No
+      back texture found in Linedef 983' bugs, I mean bigger ones, which can
+      cause quite a lot of headaches to track down - such as unclosed sectors.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">'Sector 134 is not closed, this sector will now
+      look somewhat odd' will appear in the 'Bug Check' option if such a case
+      happens, except perhaps the last bit about looking odd. This means you've
+      got little 'bits' of sectors from one sector in another. If you go to
+      'Sector mode' and highlight the offending sector, you'll usually see some
+      linedefs which you didn't ask to have put in Sector 134, (i.e, from the
+      other side of the level) - this causes WadAuthor to burst on the floor
+      crying out loud, in turn, this causes the DooM engine / SRB2 to cry harder
+      if you run the level, in turn, this causes you to throw something very big
+      and heavy at your monitor.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">I've digressed a lot from the main point - we'll
+      cover bugs later. DON'T be paranoid about using the 'Bug Fix'. 99.42% of
+      the time I've used this, I've had no problems whatsoever, and it's very
+      effective for quickly dealing with big platforms which have lots of back
+      textures to set, and are tricky to select, because they're surrounded by
+      other platforms, and so on - but it's warning of what could happen.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">So let's create a new platform, in the same style
+      as the old one, with a floor height of 128 - again, crank up the ceiling
+      height to 512 so Sonic doesn't keep smacking his head on the ceiling when
+      he jumps. Make SURE you do this for all the sectors, or you'll have some
+      freaky looking sky and the Bug Fix will unnecasarily fix an 'Above'
+      texture which it doesn't have to.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Now, make sure you've got your Motif set,
+      otherwise it'll assign the textures to be a load of rubbish, which will
+      either cause 'LSD effects' or crash the level with a message of 'BLABLA_3
+      texture does not exist in wadfile!' when you use Bug Fix. It takes the
+      Above/Below texture data you put into the motif earlier and uses it for
+      that. The Bug Fix icon, if you haven't already been hunting around for it,
+      and sticking to the tutorial like a good little boy/girl. It's the little
+      'Tick' icon at the top toolbar, or goto Tools_Check Map. You'll probably
+      have this set of bugs:</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">'Linedef a needs a lower back texture.'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'Linedef b needs a lower back texture.'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'Linedef c needs a lower back texture.'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'Linedef d needs a lower back texture.'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'Map has no exit.'</FONT></P>
+    
+    <P><FONT FACE="Verdana">'No Deathmatch starts.'</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">For now, we'll ignore the bottom two messages
+      (although you can stick a Deathmatch start in, to get rid of the annoying
+      message, if you want). You can either choose to fix the bugs manually, or
+      just click on 'Fix All', which will fix all of the texture bugs in the
+      blink of an eye! (It can't fix the bottom two - WadAuthor does not know
+      where you want your start and finish to be!) WadAuthor can fix a lot of
+      bugs using this - however, for some of the more major bugs ('No player
+      starts', 'Sector is closed', 'Sidedef is non-existant' and so on), you'll
+      have to sort them yourself.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Voila! The quick n' easy way to get it work! Not
+      bad, huh?</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">So we've covered the two basics features -
+      Building sectors and platforms. If however you just had a level where
+      Sonic jumped from one platform to the other in a straight line, it would
+      be pretty dull. It's time to create a new sector and link it to the other
+      to create a corridor.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Create a new sector anywhere you like, so long as
+      it's not inside any of the three sectors we've made so far, prefferably
+      above the three sectors so it's easier to manipulate. Drag it out to be a
+      vertical corridor, just make sure it's 128 units wide .Use snap-to-grid at
+      the top toolbar if you're having trouble - to find out how many units wide
+      something is, look at the bottom when you select a linedef, it should say
+      something like:</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Linedef: (normal), v(x) to v(y), xyz units long,
+      (number 0).</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Ignore all of that, except for the 'xyz units
+      long' bit, which'll be replaced by a number - how tall/wide the line is.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Now, double click on the sector and change the
+      floor/ceiling heights. Make the floor something like 192 - 64 fracunits
+      above the second platform, so Sonic'll have to jump into the corridor.
+      Make the ceiling height 292 - that gives Sonic quite a bit of head-room to
+      make the jump... the bare minimum you can set this to is 64 fracunits
+      above the floor. If you make this any lower, Sonic can't fit into the gap,
+      and won't jump in - but the extra 34 units or so makes it easier for
+      players to jump in / out of the room.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Also, make sure you change the ceiling texture -
+      if it's F_SKY, your corridor will look a bit stupid - so change this to
+      something 'more sensible', like FLOOR0_3, bear in mind - even though it
+      says 'FLOOR' at the beginning does NOT mean it is merely restricted to
+      floors. It's just a texture name.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">After setting the ceiling/floor heights, go back
+      to the very first sector you made. We'll have to split the line up to give
+      the corridor somewhere to snap on to. Go to the top wall, marked in the
+      pic below... again, Paint isn't in the best of moods. *sob*</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT><IMG SRC="tdiag03.gif" ALT="Select the top wall." WIDTH="640" HEIGHT="480"></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT><FONT FACE="Verdana">Now you must split
+      the linedef into three parts, to do this, right click on the linedef and
+      select 'Split linedef' - Repeat this again to split the line again - don't
+      worry about the texture data - it's been untouched, so you won't have to
+      edit it again. Now, you'll have to enter 'Vertex Mode' to drag out the
+      vertexes to allow the corridor to snap on. This is roughly what the final
+      version will look like:</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">(Assume each '-' to be 64 units long, and each '|'
+      to be a vertex. Ignore the '(*)' for now.)</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">| - - | - (*) - | - - - - - - - - |</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">Easy! Now, to connect the two corridors, you'll
+      have to select the line from the corridor you just created earlier, and
+      drag and drop it ON TOP OF the (*) line. WADAuthor should ask a question
+      like &quot;Do you want to connect this linedefs?&quot; - Answer yes,
+      and... voila! You've created a new corridor! The last thing you'll have to
+      do is to fix the above/below textures for the newly-connected linedef...
+      either get some practice in sorting them out for yourself or use 'Bug
+      Fix'.</FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"><B><A HREF="tutr4_01.wad" TARGET="">STEP 4:</A>
+      </B>So, we're starting to get somewhere! This step is more of a
+      'challenge' step. Firstly, create a new motif - for the next bit of the
+      level, we'll be 'inside' this tunnel for a while. The easiest way to do
+      this is to go to your new inside-corridor and right click on the sector,
+      and goto 'Create Motif from Sector', call it whatever you like ('Tunnels'
+      or something...) and, using the same principle as above, 'lock on' the
+      sectors - you won't have to split the linedefs this time - to try and make
+      your finished product look like the wad in the 'STEP 4' link, or if it's
+      broken or something, here's a picture (screwed up colours, courtesy of MS
+      Paint!)</FONT></P>
+    
+    <P><FONT FACE="Verdana"><IMG SRC="tdiag04.gif" ALT="Your challenge is to create... THIS!" WIDTH="640" HEIGHT="480"></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana">This time you won't have to split the linedefs...
+      you should be beginning to get an idea of how this works - make sure the
+      ceiling / floor heights are all the same, or you'll have some strange
+      results! Managed to get the finished result OK? This Step was
+      comparitively short! Onto Step 5!</FONT> </P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana"></FONT></P>
+    
+    <P><FONT FACE="Verdana" SIZE="+2">Next time: Part 2!</FONT></P>
+    
+    <P></P>
+  </BODY>
+</HTML>
