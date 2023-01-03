@@ -1,0 +1,313 @@
+<html>
+
+<head>
+<title>Editing</title>
+</head>
+
+<body bgcolor="000000" link="00ffff" vlink="80ff80" alink="ffff00">
+
+<p><big><font color="#FFFFFF"><strong>EDITING</strong></font></big></p>
+
+<p><em><font color="#FFFFFF">by SSNTails</font></em></p>
+
+<p><font face="verdana" size="2" color="ffffff"><img src="bar1.gif" width="408"
+height="25"></p>
+
+<p>So, you want to edit SRB2, eh?</p>
+
+<p>While we don't have time to write up nice fancy tutorials (at least *I* don't, heh),
+here you can find ample documentation on modifying SRB2. I assume that you already know
+how to use <a href="http://www.doomworld.com/classicdoom/utils/editors.php">Doom editing
+utilities</a>. If you don't, <a href="http://www.doomworld.com/tutorials/index.shtml">here's
+some tutorials to get you started</a>. If you know how to modify Doom, you're already
+halfway there.</p>
+
+<p>You can use any tools you want, but here's the ones I use, and will reference in this
+document:</p>
+
+<p>Wintex 4.3</p>
+
+<p>DCK v3.62</p>
+
+<p>NWT v1.3</p>
+
+<p>Zennode&nbsp; 1.0.8</p>
+
+<p>&nbsp;</p>
+
+<p>Lots of people prefer to use WadAuthor since it doesn't need to be run in pure DOS, but
+I personally don't recommend it. If you do use it, make sure to use Zennode to build the
+nodes, and not WadAuthor's internal nodesbuilder.</p>
+
+<p>This page is split up into sections, each separated by one of these checkered Sonic bar
+things:</p>
+
+<p><img src="bar2.gif" width="408" height="25"></p>
+
+<p>The order is as follows:</p>
+
+<p><em><strong>LEVEL EDITING</strong></em></p>
+
+<p><em><strong>CUSTOM CHARACTERS</strong></em></p>
+
+<p><em><strong>MUSIC</strong></em></p>
+
+<p><em><strong>SRB2 CONFIGURATION FILES FOR UTILITIES</strong></em></p>
+
+<p><em><strong>HELP</strong></em></p>
+
+<p><em><strong>CORRECTIONS</strong></em></p>
+
+<p>&nbsp;</p>
+
+<p>Since I'm absolutely crap with HTML, you'll have to scroll down to the section you want
+and keep your eyes peeled for one of the bars.</p>
+
+<p>Here we go!</p>
+
+<p><img src="bar1.gif" width="408" height="25"></p>
+
+<p></font><font face="verdana" color="ffffff" size="6"><strong>LEVEL EDITING</strong></font><font
+face="verdana" size="2" color="ffffff"></p>
+
+<p>All your basic sector creation, linedefs, etc. are all identical to Doom. There are a
+few extra things you have to watch out for, though:</p>
+
+<p>* Avoid creating any IMPASSABLE linedefs that the player will come in contact with.
+Instead of using an impassable line, create a sector at least 60 units in width, and set
+its floor and ceiling heights to the same value.</p>
+
+<p>* Don't use any walk, button, or shoot line triggers (WR, W1, SR, S1, DR, D1, etc.), as
+SRB2 does not utilize these. In fact, no line triggers are used whatsoever. Any special
+triggering is done by use of sector specials.</p>
+
+<p>* I'll add more &quot;Don't&quot;s here when I think of them!</p>
+
+<p>More information on level editing to come!</p>
+
+<p><img src="bar2.gif" width="408" height="25"></p>
+
+<p></font><font face="verdana" color="ffffff" size="6"><strong>CUSTOM CHARACTERS</strong></font><font
+face="verdana" size="2" color="ffffff"></p>
+
+<p>Yup, you can make your own characters to guide through SRB2! But you probably knew
+that. Anyway, this section covers absolutely everything you'd ever want to know about
+making your own character to use against your buddies.</p>
+
+<p></font><font face="verdana" color="#FF0000" size="3"><em>Warning! This section is
+constantly changing and some things may be COMPLETELY different in the future! Keep up to
+date with this page to make sure your character works with the latest SRB2 version!</em></font><font
+face="verdana" size="2" color="ffffff"></p>
+
+<p>With that out of the way, let's begin!</p>
+
+<p>Animations within a WAD file are named using four letters, for example, the default
+player is PLAY. The four other letters after it define the frame number and angle(s) it
+should be shown.</p>
+
+<p>Letters are used to denote the frame number, and numeric digits (0-8) are used to
+define the angle.</p>
+
+<p>For example:</p>
+
+<p>PLAYA1 - First frame, shown at angle 1 (front view)</p>
+
+<p>FLWRC0 - Third frame, show it for all angles (0 means show this sprite no matter what
+angle it is being looked at)</p>
+
+<hr>
+
+<p><em>Note: </em>The entries actually start at ASCII character 60 (A) and go forward.
+Wintex only supports capital letters, limiting you to a total of 32 frames (up to `). SRB2
+goes beyond this (currently uses 33), and Wintex will ruin a wad if you save it without
+taking the right precautions. Don't blame us, it's these dirt-old utilities we've gotta
+put up with. =P</p>
+
+<p>Before saving your file, rename any of the would-be lowercase entries at the end to
+something else that you can easily distinguish. For example, I'll rename:</p>
+
+<p>KNUXa2a8</p>
+
+<p>to</p>
+
+<p>KNUKa2a8</p>
+
+<p>(Note that Wintex will display the lowercase entires with a capital letter - which
+means you'll have a KNUXA2A8 at the beginning of your file and KNUXA2A8 near the end. The
+one near the end is the lowercase one.)</p>
+
+<p>After saving with Wintex, it will convert it to KNUKA2A8. Next, crack open a Hex
+editor. If you cleaned your wad after saving, this will be easy to do. Scroll all the way
+down to the end of the file until you see the large list of entry names. You'll find, for
+example, KNUKA2A8 at the very end. Change it to KNUXa2a8.</p>
+
+<p>It may sound hard, but it is really quite easy. Once you've done it for the first time,
+successive hex editing is painless.</p>
+
+<hr>
+
+<p>Now that you've loaded all of your graphics into the entries and renamed the
+four-letter entries to something relevant to your character (i.e., you might name
+&quot;Invader Zim&quot; as IZIM), it's time to edit the S_SKIN data lump. This little
+tidbit provides information about your character, such as its name &quot;Invader
+Zim&quot;, his speed, and abilities that he possesses. Let's not forget life icons and
+sounds, too!</p>
+
+<p>S_SKIN is really just a text file, which looks like this:</p>
+
+<p>name = Invader_Zim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;---- Spaces not
+allowed!</p>
+
+<p>face = IZIMICON
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;----
+32x32 life icon picture (must be 8 characters long)</p>
+
+<p>facename = IZIMNAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;---- Name graphic that appears
+above the life icon (must be 8 characters long)</p>
+
+<p>ability = 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;---- Fly like Tails. Perhaps some kind of propeller can come out of his backpack</p>
+
+<p>speed = 3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;---- 40% of Sonic's speed. Zim can run, but he's no Sonic character</p>
+
+<p>sprite = IZIM
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;---- Optional. Just reiterates which set of sprites to load to make sure the game
+doesn't get confused.</p>
+
+<p>&nbsp;</p>
+
+<p>Here's the chart for all possible ability and speed numbers:</p>
+
+<p>Ability<br>
+-------<br>
+0 = Sonic's Thok<br>
+1 = Tails' Fly<br>
+2 = Knuckles' Glide<br>
+3 = Nothing<br>
+<br>
+If anything else is specified, it defaults to &quot;Nothing&quot;.<br>
+<br>
+Speed<br>
+-------<br>
+0 = Sonic's Speed (100%)<br>
+1 = Tails's Speed (60%)<br>
+2 = Knuckles's Speed (80%)<br>
+3 = 40% Speed<br>
+4 = 120% Speed<br>
+5 = 20% Speed<br>
+<br>
+If anything else is specified, it defaults to &quot;20% Speed&quot;.</p>
+
+<p>&nbsp;</p>
+
+<p>To add custom sounds, you just list the original sound, and then the name of the custom
+sound in the WAD you want assigned to it. Here are the ones you can use:</p>
+
+<p>DSSPIN - Sound when Sonic goes into a spin while moving.<br>
+DSPUTPUT - Tails flying<br>
+DSPUDPUD - Tails tired from flying<br>
+DSPLPAIN - Ring spill<br>
+DSPLDETH - &quot;Ba-dum!&quot; death sound<br>
+DSTHOK - Sound effect used for Sonic's Thok.<br>
+DSSPNDSH - Spindash rev<br>
+DSZOOM - Spindash release<br>
+DSRADIO - Little &quot;ding&quot; when you message a player<br>
+DSGASP - Grab a bubble<br>
+DSJUMP - Jump!</p>
+
+<p>Note that your new sound MUST ALSO have DS as the first two letters.</p>
+
+<p>So we would continue the text file like so:</p>
+
+<p>&nbsp;</p>
+
+<p>dsspin = dszspin</p>
+
+<p>dsputput = dszput</p>
+
+<p>dspudpud = dszpud</p>
+
+<p>dsplpain = dszpain</p>
+
+<p>dspldeth = dszdeath</p>
+
+<p>dsspndsh = dszdash</p>
+
+<p>dszoom = dszzoom</p>
+
+<p>dsradio = dsztalk</p>
+
+<p>dsgasp = dszgasp</p>
+
+<p>dsjump = dszjump</p>
+
+<p>&nbsp;</p>
+
+<p>Notice that I didn't replace ALL the sounds. You don't have to. Only replace the ones
+you want.</p>
+
+<p>The S_SKIN entry MUST be the FIRST one in your file and come before all of the sprites!</p>
+
+<p><img src="editing/zhb.gif" width="200" height="200"></p>
+
+<p>If you did everything right, it should work! (Zim is NOT a finished/downloadable
+character, sorry. =))</p>
+
+<p><img src="bar1.gif" width="408" height="25"></p>
+
+<p></font><font face="verdana" color="ffffff" size="6"><strong>MUSIC</strong></font><font
+face="verdana" size="2" color="ffffff"></p>
+
+<p>Information about adding music will come in the future.</p>
+
+<p><img src="bar2.gif" width="408" height="25"></p>
+
+<p></font><font face="verdana" color="ffffff" size="6"><strong>SRB2 CONFIGURATION FILES
+FOR UTILITIES</strong></font><font face="verdana" size="2" color="ffffff"></p>
+
+<p>Configuration files are available for DCK v3.62 and WadAuthor. The DCK one is
+maintained by me, and the WadAuthor one by Sonikku. The DCK one is usually a bit more up
+to date. ;)</p>
+
+<p><a href="editing/dckcfg.zip">Download DCK v3.62 configuration files</a></p>
+
+<p>Download WadAuthor configuration files</p>
+
+<p><img src="bar1.gif" width="408" height="25"></p>
+</font>
+
+<p><font face="verdana" color="ffffff" size="6"><strong>HELP</strong></font></p>
+
+<p><font face="verdana" size="2" color="ffffff">Stuck? Don't know what to do next? There's
+several places you can get help from:</font></p>
+
+<p><font face="verdana" size="2" color="ffffff">The best place to try is the #srb2
+chatroom. Go to the CHAT page for more details. Several people are there that can help
+with editing SRB2.</font></p>
+
+<p><font face="verdana" size="2" color="ffffff">The messageboard is your second source of
+information. Some people check the messageboard more often than the chat.</font></p>
+
+<p><font face="verdana" size="2" color="ffffff">After you've exhausted those two, and
+you're still stuck, you can e-mail me (See the contact page) and see if I'll reluctantly
+help you. =)</font></p>
+
+<p><font face="verdana" size="2" color="ffffff">It's also possible that something might
+not be working because I made a goof on this page - see below!</font></p>
+
+<p><font face="verdana" size="2" color="ffffff"><img src="bar2.gif" width="408"
+height="25"></font></p>
+
+<p><font face="verdana" color="ffffff" size="6"><strong>CORRECTIONS</strong></font></p>
+
+<p><font face="verdana" size="2" color="ffffff">Whoops! Did I make a goof on this page?!
+If I did, please let me know (See the contact page) and I'll fix it ASAP.</font></p>
+
+<p><font face="verdana" size="2" color="ffffff"><img src="bar1.gif" width="408"
+height="25"></font></p>
+</body>
+</html>
