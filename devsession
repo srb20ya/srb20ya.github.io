@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="630" xOffset="0" scrollWidth="1" startPos="52926" endPos="52926" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="28591" userReadOnly="no" filename="D:\GitHub\srb20ya.github.io\sega.html" backupFilePath="" originalFileLastModifTimestamp="1587513700" originalFileLastModifTimestampHigh="31008158" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="136" xOffset="0" scrollWidth="7889" startPos="31421" endPos="31415" selMode="0" offset="0" wrapCount="9" lang="HTML" encoding="28591" userReadOnly="no" filename="D:\GitHub\srb20ya.github.io\sonic.html" backupFilePath="" originalFileLastModifTimestamp="-1394104133" originalFileLastModifTimestampHigh="31008045" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1379" startPos="1849" endPos="1849" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="28591" userReadOnly="no" filename="D:\GitHub\srb20ya.github.io\golife.html" backupFilePath="" originalFileLastModifTimestamp="-1951376581" originalFileLastModifTimestampHigh="31008674" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="406" xOffset="0" scrollWidth="833" startPos="10920" endPos="10920" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="28591" userReadOnly="no" filename="D:\GitHub\srb20ya.github.io\shows.html" backupFilePath="" originalFileLastModifTimestamp="1520917872" originalFileLastModifTimestampHigh="31008775" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
