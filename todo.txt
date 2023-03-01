@@ -1,0 +1,4 @@
+Add a "Character of the Month" section. It'll be voted each month until June '05.
+Add logo to menu.html.
+Wipe files that have no purpose anymore.
+Add a MIDI player.
