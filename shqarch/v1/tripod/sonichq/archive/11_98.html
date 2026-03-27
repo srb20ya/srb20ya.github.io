@@ -1,0 +1,1163 @@
+<HTML>
+<body><!--'"</title></head>-->
+
+<script type="text/javascript">
+//OwnerIQ
+var __oiq_pct = 50;
+if( __oiq_pct>=100 || Math.floor(Math.random()*100/(100-__oiq_pct)) > 0 ) {
+var _oiqq = _oiqq || [];
+_oiqq.push(['oiq_addPageBrand','Lycos']);
+_oiqq.push(['oiq_addPageCat','Internet > Websites']);
+_oiqq.push(['oiq_addPageLifecycle','Intend']);
+_oiqq.push(['oiq_doTag']);
+(function() {
+var oiq = document.createElement('script'); oiq.type = 'text/javascript'; oiq.async = true;
+oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/lycosn.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
+})();
+}
+//Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-21402695-19']);
+_gaq.push(['_setDomainName','tripod.com']);
+_gaq.push(['_setCustomVar',1,'member_name','sonichq',3]);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//Lycos Init
+function getReferrer() {
+var all= this.document.cookie;
+if (all== '') return false;
+var cookie_name = 'REFERRER=';
+var start = all.lastIndexOf(cookie_name);
+if (start == -1) return false;
+start += cookie_name.length;
+var end = all.indexOf(';', start);
+if (end == -1) end = all.length;
+return all.substring(start, end);
+}
+function getQuery() {
+var rfr = getReferrer();
+if (rfr == '') return false;
+var q = extractQuery(rfr, 'yahoo.com', 'p=');
+if (q) return q;
+q = extractQuery(rfr, '', 'q=');
+return q ? q : "";
+}
+function extractQuery(full, site, q_param) {
+var start = full.lastIndexOf(site);
+if (start == -1) return false;
+start = full.lastIndexOf(q_param);
+if (start == -1) return false;
+start += q_param.length;
+var end = full.indexOf('&', start);
+if (end == -1) end = full.length;
+return unescape(full.substring(start, end)).split(" ").join("+");
+}
+function generateHref(atag, template){
+atag.href=template.replace('_MYURL_', window.location.href.replace('http://', '')).replace('_MYTITLE_','Check%20out%20this%20Tripod%20Member%20site!'); 
+}
+var lycos_ad = Array();
+var lycos_onload_timer;
+var cm_role = "live";
+var cm_host = "tripod.lycos.com";
+var cm_taxid = "/memberembedded";
+var tripod_member_name = "sonichq";
+var tripod_member_page = "sonichq/archive/11_98.html";
+var tripod_ratings_hash = "1597488013:8a9ffd67eed4cd5ad58947409fbcfd69";
+
+var lycos_ad_category = {"find_what":"web site creator"};
+
+var lycos_ad_remote_addr = "31.127.40.127";
+var lycos_ad_www_server = "www.tripod.lycos.com";
+var lycos_ad_track_small = "";
+var lycos_ad_track_served = "";
+var lycos_search_query = getQuery();
+</script>
+
+<script type="text/javascript" src="http://scripts.lycos.com/catman/init.js"></script>
+
+<script type='text/javascript'>
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+   var gads = document.createElement('script');
+   gads.async = true;
+   gads.type = 'text/javascript';
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') +
+     '//www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+ })();
+</script>
+
+<script type='text/javascript'>
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/95963596/TRI_300X250_dfp', [300, 250], 'div-gpt-ad-1450204159126-0').addService(googletag.pubads());
+   googletag.defineSlot('/95963596/TRI_above_728x90_dfp', [728, 90], 'div-gpt-ad-1450204159126-1').addService(googletag.pubads());
+   googletag.defineSlot('/95963596/TRI_below_728x90_dfp', [728, 90], 'div-gpt-ad-1450204159126-2').addService(googletag.pubads());
+   googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+ });
+</script>
+
+
+<script type="text/javascript"> 
+(function(isV)
+{
+    if( !isV )
+    {
+        return;
+    }
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2", "slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+    if (this.lycos_search_query)
+    {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if(adCat && adCat.find_what)
+    {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+    
+    for (var s in slots)
+    {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot))
+        {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+
+var w = 0, h = 0, minimumThreshold = 300;
+
+if (top == self)
+{
+    return true;
+}
+if (typeof(window.innerWidth) == 'number' )
+{
+    w = window.innerWidth;
+    h = window.innerHeight;
+}
+else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight))
+{
+    w = document.documentElement.clientWidth;
+    h = document.documentElement.clientHeight;
+}
+else if (document.body && (document.body.clientWidth || document.body.clientHeight))
+{
+    w = document.body.clientWidth;
+    h = document.body.clientHeight;
+}
+return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+
+window.onload = function()
+{
+    var f = document.getElementById("FooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = '/adm/ad/footerAd.iframe.html';
+    
+
+
+    
+    // DOM Inj Ad
+    (function(isTrellix)
+    {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+
+
+        var isBlokedByDomain = function( href )
+        {
+            var blockedDomains = [
+                "ananyaporn13000.tripod.com",
+                "xxxpornxxx.tripod.com"
+            ];
+            var flag = false;
+            
+            for( var i=0; i<blockedDomains.length; i++ )
+            {
+                if( href.search( blockedDomains[ i ] ) >= 0 )
+                {
+                    flag = true;
+                }
+            }
+            return flag;
+        }
+
+        var getMetaContent = function( metaName )
+        {
+            var metas = document.getElementsByTagName('meta');
+            for (i=0; i<metas.length; i++)
+            { 
+                if( metas[i].getAttribute("name") == metaName )
+                { 
+                    return metas[i].getAttribute("content"); 
+                } 
+            }
+            return false;
+        }
+        
+        var getCommentNodes = function(regexPattern)
+        {
+            var nodes = {};
+            var nodesA = [];
+            var preferredNodesList = ['a', 'c', 'b'];
+        
+            (function getNodesThatHaveComments(n, pattern)
+            {
+                if (n.hasChildNodes())
+                {
+                    if (n.tagName === 'IFRAME')
+                    {
+                        return false;
+                    }
+                    for (var i = 0; i < n.childNodes.length; i++)
+                    {
+                        if ((n.childNodes[i].nodeType === 8) && (pattern.test(n.childNodes[i].nodeValue)))
+                        {
+                            var areaName = pattern.exec(n.childNodes[i].nodeValue)[1];
+                            nodes[areaName] = n;
+                        }
+                        else if (n.childNodes[i].nodeType === 1)
+                        {
+                            getNodesThatHaveComments(n.childNodes[i], pattern);
+                        }
+                    }
+                }
+            }(document.body, regexPattern));
+
+            for (var i in preferredNodesList)
+            {
+                if (nodes[preferredNodesList[i]])
+                {
+                    if( isTrellix && nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode )
+                    {
+                        nodesA.push(nodes[preferredNodesList[i]].parentNode.parentNode.parentNode.parentNode);
+                    }
+                    else
+                    {
+                        nodesA.push( nodes[preferredNodesList[i]] );
+                    }
+                }
+            }
+            return nodesA;
+        }
+        
+        
+        var properNode = null;
+        var areaNodes = getCommentNodes( new RegExp( '^area Type="area_(\\w+)"' ) );
+
+        for (var i = 0; i < areaNodes.length; i++)
+        {
+            var a = parseInt(getComputedStyle(areaNodes[i]).width);
+            if ((a >= 300) && (a <= 400))
+            {
+                properNode = areaNodes[i];
+                break;
+            }
+        }
+
+
+        var propertyName = getMetaContent("property") || false;
+        if( isTrellix && (properNode) )
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            properNode.insertBefore(e, properNode.firstChild);
+        }
+        else if( isTrellix && !( properNode ) ) // Slap the ad eventhought there is no alocated slot
+        {
+            e.src = '/adm/ad/injectAd.iframe.html';
+            e.style.cssFloat = 'none';
+            var cdiv = document.createElement('div');
+            cdiv.style = "width:300px;margin:10px auto;";
+            cdiv.appendChild( e );
+            b.insertBefore(cdiv, b.lastChild);
+        }
+        else if( !isBlokedByDomain( location.href ) )
+        {
+            var injF = document.createElement('iframe');
+            injF.style.border = '0';
+            injF.style.margin = 0;
+            injF.style.display = 'block';
+            injF.style.cssFloat = 'none';
+            injF.style.height = '254px';
+            injF.style.overflow = 'hidden';
+            injF.style.padding = 0;
+            injF.style.width = '300px';
+            injF.src = '/adm/ad/injectAd.iframe.html';
+
+            if( b && ( !isTrellix || ( typeof isTrellix == "undefined" ) ) ) // All other tripod props
+            {
+                var cdiv = document.createElement('div');
+                cdiv.style = "width:300px;margin:10px auto;";
+                cdiv.appendChild( injF );
+                b.insertBefore(cdiv, b.lastChild);
+            } 
+        }
+  }( document.isTrellix ));
+}
+
+</script>
+
+<div id="tb_container" style="background:#DFDCCF; border-bottom:1px solid #393939; position:relative; z-index:999999999!important">
+<!--form name="search" onSubmit="return searchit()" id='header_search' >
+<input type="text" placeholder="Search" size=30 name="search2" value="">
+<input type="button" value="Go!" onClick="searchit()">
+</form>
+<style>
+form#header_search {
+    width: 916px;
+    margin: 0 auto 8px;
+    position: relative;
+}
+
+
+form#header_search input {
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    padding: 0 8px;
+    box-sizing: border-box;
+    background: #F4F2E9;
+    border: 1px solid #BBB8B8;
+    transition: background-color 300ms ease-out,
+                color 300ms ease;
+}
+
+form#header_search input[type="text"] {
+    width: 100%;
+}
+form#header_search input[type="text"]:focus {
+    border-color: #A2D054;
+    background-color: #fff;
+    box-shadow: 0 0px 12px -4px #A2D054;
+}
+
+
+
+form#header_search input[type="button"] {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    opacity: 1;
+    background: #DFDCCF;
+    color: #463734;
+    width: 125px;
+    cursor: pointer;
+    height: 38px;
+    border: none;
+}
+form#header_search input[type="text"]:focus ~ input[type='button']:hover,
+form#header_search input[type='button']:hover {
+    background-color: #A5CE56;
+    color: #fff;
+}
+form#header_search input[type="text"]:focus ~ input[type='button'] {
+    background-color: #52AEDF;
+    color: #fff;
+}
+
+</style>
+
+<script>
+function searchit(){
+    
+    // determine environment 
+    var search_env 
+    if (lycos_ad_www_server.indexOf(".pd.") > -1) {
+       search_env = 'http://search51.pd.lycos.com/a/';
+    } else if (lycos_ad_www_server.indexOf(".qa.") > -1) {
+       search_env = 'http://search51.qa.lycos.com/a/';
+    } else {
+       search_env = 'http://search51.lycos.com/a/';
+    }
+
+var search_term = encodeURIComponent(document.search.search2.value)
+var search_url = search_env+search_term;
+window.open(search_url);
+
+return false
+}
+</script-->
+<style>
+    .adCenterClass{margin:0 auto}
+</style>
+<div id="tb_ad" class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+
+<div id="ad_container" style="display:block!important; float:left; width:728px ">
+<script type="text/javascript">
+if (typeof lycos_ad !== "undefined" && "leaderboard" in lycos_ad) {
+  document.write(lycos_ad['leaderboard']);
+}
+</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+if (typeof lycos_ad !== "undefined" && "slider" in lycos_ad) {
+  document.write(lycos_ad['slider']);
+}
+</script> <!-- added 7/22 -->
+<div id="FooterAd" style="background:#DFDCCF; border-top:1px solid #393939; clear:both; display:none; width:100%!important; position:relative; z-index:999999!important; height:90px!important"> 
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<div id="footerAd_container" style="display:block!important; float:left; width:728px">
+<iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+</div>
+
+
+<HEAD>
+
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; I) [Netscape]">
+
+   <TITLE>Sonic News Press</TITLE>
+
+</HEAD>
+
+<BODY TEXT="#0000FF" BGCOLOR="#000000" LINK="#CD7F32" VLINK="#FF0000" ALINK="#003366">
+
+
+
+<CENTER><img src="/tripod/sonichq/images/Soniclogo.gif" align=left><br><img src="/tripod/sonichq/images/SNP.gif"><br></CENTER>
+
+<img src="/tripod/sonichq/images/bluebar.gif">
+
+<br><b>Hello and welcome to the new Sonic News Press. This design is what I like, if you have any problems about it, email <a href="mailto:zw@rocketmail.com">me</a>. If enough people complain, I might change the background. If not, this is it! Anyway, the rules of the page: Ahem...the page will be updated whenever news come up, that means it could be daily; the pictures on the left (<--) are linked to archives, specials, and interviews. To keep the load speed of the page, news one week old will be moved to the news archive page. And enjoy "the best Sonic news page out there under the sky!" Oh yeah, if you have any news related to the Sonic the Hedgehog Universe, please inform <a href="mailto:zw@rocketmail.com">me</a> as fast as you can! This is the archive for November, 1998.
+</b>
+
+
+
+<font size="-1">
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>More SA Screens!</b> - Zifei 6:31pm CST, 11-30-98</td></tr>
+<tr><td colspan="2">
+SegaX has posted more Sonic Adventure screens scanned from some Hong Kong game magazine. Anyway, these new shots are certainly interesting, including one with Sonic taking a shower (?!).
+<p><a href="http://207.155.180.70/news/sonicad_64.jpg">Image 1</a>, <a href="http://207.155.180.70/news/sonicad_63.jpg">Image 2</a>, <a href="http://207.155.180.70/news/sonicad_62.jpg">Image 3</a>, <a href="http://207.155.180.70/news/sonicad_61.jpg">Image 4</a>, <a href="http://207.155.180.70/news/sonicad_60.jpg">Image 5</a>, <a href="http://207.155.180.70/news/sonicad_59.jpg">Image 6</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Special Report From Asia!</b> - Knux Lee 3:49pm CST, 11-30-98</td></tr>
+<tr><td colspan="2">
+Ever wondered how Sonic is doing in the other parts of the world? Thanks to <a href="knuxlee@pd.jaring.my">Knux Lee</a>, long time Sonic HQ member, we get a view of how Sonic's doing in Malaysia and Singapore. Click <a href="/tripod/sonichq/archive/Special11-30-98.html">here</a> to read the Sonic HQ exclusive report.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic And Sally...</b> - Zifei 3:25pm CST, 11-30-98</td></tr>
+<tr><td colspan="2">
+This question's been asked many many times before, <i>will we ever see Sonic and Sally actually marry?</i> Well, listen to Ken Penders:
+<p><i>I have tried to
+explain
+that however much I've wanted to explore the relationship between Sonic
+and
+Sally, that's an area Sega very much does not want us to.  The readers
+can beg,
+plead, threaten to boycott, whatever, but in the end, our hands are
+tied 
+to a certain extent in regards to certain matters.  While we can get
+away 
+with showing something in the future under the excuse that it's an
+alternate
+reality, you will never, ever see any wedding, engagements or even
+going out
+on a simple date between the two.</i>
+<p>Then he goes on to say:
+<p><i>Sega has NO....ZIP...ZILCH...NADA...  [ABSOLUTELY]
+ZERO...interest 
+in showing a stable relationship between Sonic and Sally.  You can only
+fight 
+city hall so much before it becomes counter-productive.</i>
+<p>So, not a chance except Super Sonic Special #9: Knuckles: Twenty Years Later where we'll see Sonic and Sally married with children in the future. But Ken brings up a point, the future could always be altered! Wonder what would Archie do if the Sonic Team of Sega of Japan makes a female character for Sonic that's somewhat to the extent of Julie-su of Knuckles or Mara Jade of Star Wars.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>New Sonic Fan Comic!</b> - Vector 11:51pm CST, 11-28-98</td></tr>
+<tr><td colspan="2">
+There's another Sonic fan comic in town called <i>A SegaSonic Adventure</i>. Not much is known about this comic right now except that it's more aligned to the Sonic games. Click <a href="https://web.archive.org/web/*/http://www.sci.fi/~steffi/comic/segasonic_cover_1.jpg">here</a> to view the cover and <a href="https://web.archive.org/web/*/http://www.sci.fi/~steffi/comic/index.html">here</a> to visit the homepage. 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Ruby Echidna Interview!</b> - Vector 11:48pm CST, 11-28-98</td></tr>
+<tr><td colspan="2">
+Vector brings us this Sonic HQ exclusive interview with Dawn Best, also known as Ruby Echidna by the Sonic fans. In the interview, we learn everything from how Ruby feels about the current Sonic happenings and why's she's leaving the Sonic Fandom. Click on the logo over on the left to read on.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Win Sonic R PC!</b> - Zifei 9:54pm CST, 11-27-98</td></tr>
+<tr><td colspan="2">
+Sega has put up a sweepstake for you to win a copy of Sonic R PC. There will only be 10 lucky winners. All you do is fill out a form and answer some questions to enter. Then you wait for an email...Anyway, click <a href="https://web.archive.org/web/20011201025556/http://www.sega.com/error/404_error.jhtml">here</a> to enter.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>More Sonic Adventure!</b> - Zifei 1:05pm CST, 11-27-98</td></tr>
+<tr><td colspan="2">
+We just can't get enough of Sonic Adventure...and we're getting more and more of it from the sources in Asia. These images are scanned by SegaX:
+<p><a href="http://207.155.180.70/news/sonicad_54.jpg">Image 1</a>, <a href="http://207.155.180.70/news/sonicad_55.jpg">Image 2</a>, <a href="http://207.155.180.70/news/sonicad_57.jpg">Image 3</a>, <a href="http://207.155.180.70/news/sonicad_58.jpg">Image 4</a>, <a href="http://207.155.180.70/news/sonicad_56.jpg">Image 5</a>. 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Dreamcast Is Away!</b> - Zifei 11:54pm CST, 11-26-98</td></tr>
+<tr><td colspan="2">
+The Sega Dreamcast has launched in Japan and Asia. And as you know, where the Dreamcast goes, Sonic will follow. Rumors and facts are already saying that the DC will launch in the rest of the world for $199 or as low as $155! Bring it on! 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>MSNBC On SA.</b> - Zifei 9:35pm CST, 11-24-98</td></tr>
+<tr><td colspan="2">
+Here's what the MSNBC cable news network has to say about Sonic Adventure after they saw it:
+<p><i>According to the specifications Sega released earlier this
+                         year, Dreamcast’s graphic engine can generate 3 million
+                         polygons per second. At no time has this power been more
+                         apparent than when playing “Sonic.” While the environments in
+                         “Sonic Adventure” are not photorealistic, the objects within
+                         them are crisp, three-dimensional and very clear. The levels
+                         shown during the demonstration included a 2-D level in which
+                         Sonic, Sega’s blue hedgehog-in-tennis-shoes mascot, runs
+                         through a city at night, a level in which Sonic’s pal Knuckles
+                         flies around in a three-dimensional canyon, and a level in which
+                         another Sonic-buddy runs through a factory. It’s difficult to
+                         judge a game without playing it, but at this demonstration the
+                         only technological glitch was some pop-in. (Pop-in is a name
+                         given to background objects that seem to appear out of
+                         nowhere. On racing games, for instance, the scenery along the
+                         track may appear on the screen as you drive past it. This is
+                         generally the result of the processor’s being overwhelmed by
+                         the amount of data it is handling. The Saturn was notorious for
+                         pop-in problems.) Considering the amount of detailed graphics
+                         being rendered in the game, the speed of the game and the fact
+                         that it is still unfinished, some pop-in should be expected. </i>
+<p>I'm guessing that they saw an earlier version of the game. Because latest reports out of Japan are saying Sonic Adventure's rid of almost all the pop-ups. And photorealistic imagery is impossible with polygons, so I don't know why they brought that up. As for a 2D level...interesting. Could the Sonic Team made 2D levels of all the 3D levels? Or is the MSNBC reporter reporting the wrong stuff here? 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>New SA Pictures!</b> - Zifei 9:11pm CST, 11-24-98</td></tr>
+<tr><td colspan="2">
+<a href="http://www.segadreamcast.net">SegaX</a> today put up some new shots of Sonic Adventure. This game is looking more and more like a never-ending virtual world.
+<p><a href="http://207.155.180.70/news/sonicad_53.jpg">Image 1</a>, <a href="http://207.155.180.70/news/sonicad_52.jpg">Image 2</a>, <a href="http://207.155.180.70/news/sonicad_51.jpg">Image 3</a>, <a href="http://207.155.180.70/news/sonicad_50.jpg">Image 4</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic Newsgroup Summary.</b> - Vector 6:41pm CST, 11-24-98</td></tr>
+<tr><td colspan="2">
+If you have been to the Sonic Newsgroup lately, you know that one word can completely describe it: boring! But Vector, being the resourceful guy he is, still managed to dig up some <i>very</i> intersting stuff. Mostly about Sonic 2. Read <a href="/tripod/sonichq/archive/SonicNGR11-24-98.html">on</a>...
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic 2 Day!</b> - Zifei 6:36pm CST, 11-24-98</td></tr>
+<tr><td colspan="2">
+A long time ago, in a electronic store far, far away, Sonic 2 came out. Well, it came out on November 24th, 1992 to be exact. Anyway, since then, it went on to sell over 5 million copies. That is the best selling Sonic game of all time. But that will change soon. Bring on Sonic Adventure.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Floating Island?!</b> - Zifei 3:46pm CST, 11-23-98</td></tr>
+<tr><td colspan="2">
+If you haven't downloaded the Sonic Adventure commercial yet, then this is for you. In two of the commercials, Amy and Knuckles', we see a floating island. Of course, we're not sure if this is <b>the</b> Floating Island. But here are a few captures I did to let you judge. Note that the last three screens are of the island in question falling into the water.
+<p><a href="/tripod/sonichq/images/SAfi1.jpg">Image 1</a>, <a href="/tripod/sonichq/images/SAfi2.jpg">Image 2</a>, <a href="/tripod/sonichq/images/SAfi3.jpg">Image 3</a>, <a href="/tripod/sonichq/images/SAfi4.jpg">Image 4</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Ken Penders Speaks...</b> - Zifei 8:00pm CST, 11-20-98</td></tr>
+<tr><td colspan="2">
+And we listen. This time, he talks about a possible seven-parter in the future Knuckles lineup. Now I think #19-#21 should have been a seven parter, but anyway:
+<p><i>
+For the record, somewhere down the line I do have a 5-parter for
+KNUCKLES 
+in mind, but I'm not sure yet if two of the parts would be a crossover
+with
+SONIC, or if I would be allowed to stretch the story over 2 issues of
+SONIC in
+addition to 5 issues of KNUCKLES, making for a 7-parter.  Let's say
+editorial
+agrees to this, are readers up for an epic of this size?  That's the
+big 
+question, because too many series these days have seemingly endless
+stories,
+and if you get into that rut, it tends to drive down sales.  You play
+fair with
+the customers, let them know the story is only so long, and they're
+willing to
+come along.</i>
+<p>Interesting, indeed. You can bet on this becoming realility. Now just which part? The stories leading up to Knuckles #50?
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic R PC...First Contact.</b> - Zifei 7:50pm CST, 11-20-98</td></tr>
+<tr><td colspan="2">
+Or rather, first impression. This is what SegaNet has to say after touching sonic R PC for the first time:
+<p><i>Sega's PC division trots out their excellent Saturn emulator
+              for another go in Sonic R for Windows compatible PCs. The
+              game is a one to one conversion of last year's Saturn title,
+              save for a few minor and hardly noticeable additions. First
+              up to the plate is the game's Direct 3D support; any decent
+              3D video card will run Sonic R as fast the Saturn version
+              with good texture quality and at a crystal-clear 640 x 480
+              resolution. The question does rise, why did Sega limit Sonic
+              R's resolution to 640 x 480? Any second-generation 3D
+              card could probably have this puppy racing at 1024 x 768,
+              which would have made Sonic R that much more of a visual
+              treat. Those looking for improved texture detail (i.e., fuller
+              character models) will be disappointed; the polygons may
+              look sharper than on Saturn, but it doesn't look like there's
+              more of them. 
+
+              <p>Graphics aside, Sonic R PC is a nice little console racer that
+              will have a tough time finding a niche for itself in the
+              competitive PC market. Sonic holds no pull in the land of
+              Quake, and the fruity vocals, which add so much to Sonic
+              R's "cute" value, may painfully detract from this game's
+              marketability to PC gamers. Sega will never succeed in the
+              PC market if it continues to port over year old Saturn
+              games, adding D3D support, some network options, and a
+              pretty box. Look for a full review next week - I'll tell you in
+              great details all that's good and all that's bad in Sonic R PC.</i>
+<p>Chirstmas is right around the corner, so this could be you gift to your little sister or brother (that is, is you ever give them anything).
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Tail's Factory!</b> - Zifei 7:31pm CST, 11-20-98</td></tr>
+<tr><td colspan="2">
+This level from Sonic Adventure looks like a minning colony. Very detailed! And the characters could use the trasportation system!
+<p><a href="https://web.archive.org/web/19990508015101/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/1.html">Image 1</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/2.html">Image 2</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/3.html">Image 3</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/4.html">Image 4</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/5.html">Image 5</a>,<br>
+<a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/6.html">Image 6</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/7.html">Image 7</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/8.html">Image 8</a>, <a href="https://web.archive.org/web/*/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/14.html">Image 9</a>. 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Eggman...</b> - Zifei 4:27pm CST, 11-19-98</td></tr>
+<tr><td colspan="2">
+So far we have not seen any picture of Eggman as the boss...well, I found some. This is from DC-Mag:
+<p><a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/11.html">Image 1</a>, <a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/12.html">Image 2</a>, <a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/13.html">Image 3</a>, <a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img4/10.html">Image 4</a>.
+<p>From the look of it, it'll be harder no to get Eggman...who gave him those missiles?!
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Windy Valley...</b> - Zifei 3:50pm CST, 11-19-98</td></tr>
+<tr><td colspan="2">
+More and more Sonic Adventure pictures are revealed as we headed for the Japanese release date on December 23. This time, DC-Mag brought us pictures of Windy Valley. And believe me, they look awsome. Is that Sonic running on water?!
+<p><a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/1.html">Sonic running on water!</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/2.html">Sonic jumping.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/valley3s.jpg">Sonic in the air.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/4.html">Spin and win time!</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/5.html">Sonic attacking.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/6.html">What's left of the attack.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/7.html">Sonic looking back.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/8.html">Sonic looking at a fish?</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/9.html">Magic...energy...or whatever...</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/17.html">Sonic looking on.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/10.html">Sonic bouncing.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/11.html">Sonic in the air...</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/12.html">Sonic running</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/13.html">A back flip...</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/14.html">A far out look.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/15.html">Another far out look.</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/16.html">And another...</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/18.html">Check out the flowers!</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.canadawired.com/~gvink/Sega/Tech/Games/SonicAdventure/more_img3/19.html">Reaching for nothing...</a>
+<p>Someone asked a really good question:
+<p><i>How many levels are we up to now?</i>
+<p>Frankly, I lost track...9? 10? Or is it 11?
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA At Comdex...</b> - Zifei 3:47pm CST, 11-19-98</td></tr>
+<tr><td colspan="2">
+Everyone knows that it's only a matter of time before Sega of America starts to spend their $150 million of marketing money. Well, it looks like they have already embarked on the spending road...starting with Sonic Adventure:
+<p><i>A demo unit of the Dreamcast is on display at this year's Comdex computer show. The non-interactive Sonic Adventure demo was on display using the Dreamcast's TV and VGA out capabilities. </i>
+<p>Now let us all hope that one of those demo shows will happen in your local town.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>The Future Knuckles Line-up!</b> - Zifei 3:44pm CST, 11-19-98</td></tr>
+<tr><td colspan="2">
+The came straight from Ken Penders:
+<p><i>DARK ALLIANCE (#22-24)<br>
+CHILDHOOD'S END (#25)<br>
+THE FIRST DATE/Mighty 3-issue back-up story (#26-28)<br>
+MY SPECIAL FRIEND (#29 - guest starring Princess Sally)<br>
+KING OF THE HILL/Espio 3-issue back-up story (#30-32)<br>
+RETURN TO ALBION/Julie-Su or Vector 3-issue back-up(#33-35)</i>
+<p>Mr. Penders also mentioned at the possibility that Sonic Super Specials will go bi-monthly starting somewhere in 1999.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Knuckles #21 Release Date!</b> - Zifei 4:10pm CST, 11-17-98</td></tr>
+<tr><td colspan="2">
+Archie Comic's Knuckles the Echidna #21 will be released in comic stores across America on December 2, 1998.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Return To Albion</b> - Zifei 4:07pm CST, 11-17-98</td></tr>
+<tr><td colspan="2">
+Ken Penders, the writer for Knuckles and Sonic comics, yesterday commented on Knuckles #33-35:
+<p><i>As a result, the tentatively titled KNUCKLES: RETURN TO
+ALBION, is
+now slated for issues #33 through #35, and will give Antoine the full
+Knuckles
+treatment, going into detail about (among other things) how Geoffrey and
+Antoine really became rivals and the unique individual who trained both
+of
+them, explore Antoine and Bunnie's relationship, as well as having
+Antoine
+experience a family reunion he never expected.  I'll also resolve
+whatever
+loose ends were left hanging at the end of THE MAP.  (Honest admission
+here:
+even I have to go back and reread some of the previous stories,
+especially
+those I haven't written, as I'm too focused on what I'm doing now to
+recall
+everything previously established.)  By the time this story is over, we
+may
+well have fans asking we give Antoine and Bunnie, not to mention
+Geoffrey,
+their own books.</i>
+<p>Yeah right to the last part. As for Antoine's THE MAP conclusion, let's just say the event will be another Knuckles/Sonic comic crossover. This should take place for the Sonic comic around #80-82.  
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Gone Fishing..er..Frogging!</b> - Zifei 4:02pm CST, 11-17-98</td></tr>
+<tr><td colspan="2">
+Recently I found some pictures of Big the Cat from Sonic Adventure frogging. Or whatever term you use for fishing frogs...
+<p><a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sademo1.jpg">Image 1</a>, <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sademo2.jpg">Image 2</a>, <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sademo3.jpg">Image 3</a>, <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sademo4.jpg">Image 4</a>.
+<p>The images are low resolution. But for the people who saw this demo, they said it looked really fun.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Music CD!</b> - Zifei 4:01pm CST, 11-16-98</td></tr>
+<tr><td colspan="2">
+Sonic Team will be releasing a Sonic Adventure music CD on December 2. It'll sell for 2,100 Yen (which is $17 currently). The CD will include songs from Sonic Adventure. They include:
+<p>"It Doesn't Matter" - Sonic's Theme<br>
+"My Sweet Passion" - Amy's Theme<br>
+              "Lazy Days ~Livin' in Paradise~" - BIG's Theme<br>
+              "Believe In Myself" - Tail's Theme<br>
+              "Unknown from M.E." - Knuckles' Theme<br>
+              "Open Your Heart" - Sonic Adventure Main Theme 
+<p>And the lyrics for the Sonic Adventure Theme Song is out. Check it out and sing along (that is, if you have the song on your computer):
+<p><i>
+Open Your Heart . . . MAIN THEME OF "SONIC Adventure"<br>
+(Music : J. Senoue & K. Tokoi     Words : J. Senoue & T. Fukada     Arrange : J. Senoue)
+
+
+    <p>Thunder, rain, and lightning<br>
+    Danger, water rising<br>
+    Clamour, sirens wailing<br>
+    It's such a bad sign
+
+    <p>Shadows of dark creatures<br>
+    Steel clouds floating in the air<br>
+    People run for shelter<br>
+    What's gonna happen to us!?
+
+   <p> All the steps we take, all the moves we make, all the pain at stake<br>
+    I see the chaos for everyone who are we what can we do<br>
+    You and I are same in the way that we have our own styles that we won't change<br>
+    Your's is filled with evil and mine's not there is no way I can lose
+
+     <p>*   Can't hold on much longer  -  But I will never let go<br>
+       I know it's a one way track  -  Tell me now how long this'll last<br>
+      I'm not gonna think this way  -  Nor will I count on others<br>
+    Close my eyes and feel it burn  -  Now I see what I've gotta do
+
+    <p>OPEN YOUR HEART, IT'S GONNA BE ALLRIGHT        
+
+
+    <p>Ancient city blazing<br>
+    Shadows keep attacking<br>
+    Little children crying<br>
+   Confusion, hopeless anger
+
+    <p>I don't know what it can be but you drive me crazy<br>
+    All your cunning tricks make me sick, you won't have it your own way
+
+    <p>* Repeat
+
+    <p>OPEN YOUR HEART...AND YOU'LL SEE...
+
+
+    <p>(Guitar Solo)
+
+
+    <p>If it won't stop, there will be no future for us<br>
+    Its heart is tied down by all the hate, gotta set him free
+
+       <p>I know it's a one way track  -  Tell me now how long this'll last<br>
+    Close my eyes and feel it burn  -  Now I see what I've gotta do
+
+    <p>GOTTA OPEN YOUR HEART, DUDE!
+
+    <p>* Repeat
+
+    <p>OPEN YOUR HEART, IT'S GONNA BE ALLRIGHT
+</i>
+<p>After readin this, you really have to wonder, where the heck did they come up with this?! Source for the lyrics: <a href="http://www.seganet.com">SegaNet</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>More Sonic Adventure!</b> - Zifei 3:49pm CST, 11-16-98</td></tr>
+<tr><td colspan="2">
+Think you have seen enough of Sonic Adventure? Well, to quote Yuji Naka: "You ain't seen nothin' yet!" The Sonic Team today released more good stuff on Sonic Adventure. They include 7 pictures of the characters:
+<p><a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfsonic.jpg">Sonic</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cftails.jpg">Tails</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfknuck.jpg">Knuckles</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfamy.jpg">Amy</a>,<br>
+<a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfbig.jpg">Big</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfe102.jpg">E-102</a>, and <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cfegg.jpg">Eggman</a>.
+<p>And the commercials of Sonic Adventure that's showing in Eastern Japan right now. These videos are really , really, nice to watch. they're all about 2.8MB in size. Each one's about a different character in action.
+<p><a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_sonic.mpg">Sonic</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_tails.mpg">Tails</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_knuck.mpg">Knuckles</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_amy.mpg">Amy</a>,<br>
+<a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_big.mpg">Big</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_e102.mpg">E-102</a>, and <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/dload/cf1_egg.mpg">Eggman</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SSS#8 Release Date!</b> - Zifei 3:46pm CST, 11-16-98</td></tr>
+<tr><td colspan="2">
+At the present time, Super Sonic Special #8 is scheduled for release on December 31, 1998. Of course, that's a long way off, so it may change by then...
+</td></tr></table>
+
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>How Long Is SA?</b> - Zifei 2:13pm CST, 11-15-98</td></tr>
+<tr><td colspan="2">
+This is from a game tester (I suppose) who finished Sonic Adventure (the game's finished, but the Sonic Team's adding extras touches to it):
+<p><i>Well, having just beaten Sonic Adventure with Knuckles, I can tell you it took me about twenty hours. =^) 
+<p>Now on to beating it with Sonic, Tails, Amy, and E-102.</i>
+<p>As you can see, Sonic Adventure's gonna be a longs game (note that he didn't play any mini-games). I remember Sonic 1 only took me 5-8 hours to beat...  
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Shigeru Miyamoto On SA.</b> - Zifei 11:07am CST, 11-14-98</td></tr>
+<tr><td colspan="2">
+Shigeru Miyamoto, the mastermind behind Mario, Zelda, Star Fox, Donkey Kong, Yoshi, and a bunch of others, recently commented on Sonic Adventure. Here's a quote from Next-Generation:
+<p><i>Of course, Sega has its own big game coming soon with its famous mascot Sonic, and we asked Miyamoto-san what he thought of Sonic Adventures. He said that he had not gotten a chance to play the game, but had seen all the movies and read about it. "Does the world really need another Mario-like game?" he asked rhetorically. He expressed some regret that the game didn't appear to have much innovation and said that while it looks like it will be a good game, he had hoped that the crew at Sega would have created a game with more creative oomph. However, he also commented that he has a great deal of respect for the people on the Sonic team, and wants to see the final game.</i> 
+<p>I for one totally disagrees with what he said. First of all, Sonic Adventure isn't a "Mario-like" game. It's too fast and big to be considered a Mario-type. As for innovations, there's the speed, the size, the graphics, the VMS, the A-life, the character moves, the morphing Perfect Chaos, the RPG elements...need I say more? With all the talk about the up coming Zelda: TooT being the best game of the century, I think Sonic Adventure is the most underrated game of the century.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic Newsgroup Report.</b> - Swifty 5:14pm CST, 11-13-98</td></tr>
+<tr><td colspan="2">
+Well, not much new in the Sonic newsgroup on Usenet. But still a interesting report about Sonic's new look and it's effects...click <a href="http://members.tripod.com/~sonichq/archive/SonicNGR11-13-98.html">here</a> and read on.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sales Still Fall...</b> - Zifei 4:23pm CST, 11-13-98</td></tr>
+<tr><td colspan="2">
+Archie Comic's Sonic the Hedgehog direct comics sales (stand for comic store sales) are still falling. This month, for Sonic #66, sales dropped -0.8%, putting direct sales around 7,500 copies. This puts the comic at #198 on the best selling list (direct sales only). Note that Sonic is selling extremely well in the indirect market. Total sales for the comic are around 90,000 copies per month. But I don't know the exact number...because Archie themselves are not very clear on this...Oh yeah, again, like always, sonic is the best selling comic for Archie is month.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Twinkle Park...</b> - Zifei 3:33pm CST, 11-12-98</td></tr>
+<tr><td colspan="2">
+This is a newly discovered level from Sonic Adventure. In there you'll find Sonic riding a roller coaster, bowling, and exploring. It looks really fun. Scan are from Dreamcast Mag Vol.2 thanks to NoriPhd:
+<p><a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park9.jpg">Sonic riding a roller coaster</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park8.jpg">Sonic riding a roller coaster 2 </a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park1.jpg">Sonic exploring</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park11.jpg">Sonic bowling</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park6.jpg">Sonic looking on</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park5.jpg">Amy running</a><br>
+<a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/park2.jpg">Amy looking on</a><br>
+</td></tr></table>
+
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>No Chance, Locke!</b> - Zifei 3:21pm CST, 11-12-98</td></tr>
+<tr><td colspan="2">
+Lately, there haven't been much news surrunding the Sonic comics. For one thing, the only reason for that is Ken Penders isn't talking (which is not our fault). Anyway, if you ever questioned if Locke and Lara-Le will ever get together again, here's your answer straight from Penders:
+<p><i>I can say it's a safe bet you'll never, ever see Lara-Le and Locke together again as a couple in any way, shape or form. They may be Knuckles' parents, but it's over as far as anything else goes.</i>
+<p>Well, that of course doesn't say much, considering Ken also said way by before Sonic #47 that Sally <b>will</b> die forever...for the new readers: see, in comics, things change a lot. As Jedi Master Yoda once said: "the future is always in motion." And...I'm getting off topic here...
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Demos Showing...</b> - Zifei 3:36pm CST, 11-11-98</td></tr>
+<tr><td colspan="2">
+Sonic Adventure Demos are now show at Sega partner stores in Japan. Here's a <a href="https://web.archive.org/web/20011211111543/http://www.game-online.com/cfdocs/site/news/gifs/newshots/dreamcast/sonicdemo.jpg">picture</a> to give you an idea what it is like.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic R PC.</b> - Zifei 3:20pm CST, 11-11-98</td></tr>
+<tr><td colspan="2">
+Sonic R PC was released yesterday, here's Sega's official press release:
+<p><i>REDWOOD CITY, Calif.--Nov. 11, 1998--Sega(R) PC
+              released "Sonic R(TM)" today, bringing Sonic the
+              Hedgehog(TM) to the PC in an all-new 3D racing game with
+              a look and feel unlike anything Sonic fans have ever seen.
+              In "Sonic R," gamers take a 3D thrill ride as they race
+              through outer space, an ancient city and a tropical island.
+              Gamers can go off the beaten path to investigate these
+              worlds and uncover hidden power-ups and other surprises
+              along the way. 
+
+              <p>In "Sonic R" gamers don't have to run this race alone. Now
+              they can race head-to-head with up to four players through
+              a split-screen on one PC, adding a new element of fun and
+              replay value. "Sonic R" is easy enough for the novice to
+              pick-up and play, but full of challenges that'll test the expert
+              gamer's racing skills. "Sonic R" is available in stores
+              nationwide starting this week. 
+
+              <p>In "Sonic R," gamers can race as Sonic or one of his three
+              pals -- Tails, Knuckles or Amy -- with a goal of collecting
+              gold rings, finding the stolen Chaos Emeralds and making it
+              to the finish line. Gamers can race over the sun-kissed
+              beaches of Resort Island, cruise the streets of the colorful
+              metropolis Radical City, explore the Egyptian maze of the
+              Regal Ruin, speed through "loop 'd loops" and over
+              potholes in the Reactive Factory and soar through space on
+              a hidden track, the Radiant Emerald. Just to keep racers on
+              their toes, random weather effects such as snow and rain
+              cause water to freeze and roads to become slick, adding a
+              new element of challenge to the game. 
+
+              <p>Gamers are constantly rewarded in "Sonic R" with various
+              hidden elements and power-ups to find along the way. As
+              you race through the levels, you can unlock hidden
+              opponents such as Dr. Robotnik, Metal Robotnik, Super
+              Sonic, Metal Sonic, Teddybear Tails and Mecha Knuckles.
+              To earn these hidden characters, gamers have to be faster
+              than speeding bullets and need to know the short cuts to
+              leave the competition in the dust. Power-ups such as
+              floating stars, spinning shoes, magnetic power-ups or Sonic
+              tokens can give players a winning edge and allow them to
+              get bonus rings, run on water or pick-up relentless speed. </i>
+<p>Now don't get to overly excited about this game unless you can't find the Saturn version or don't have a Saturn. This PC game is full of pop-ups and break-ups and is no where near the graphics of the console version...but the speed is still there, just with a lot more slow downs depending on your CPU.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Movie?</b> - Zifei 3:36pm CST, 11-10-98</td></tr>
+<tr><td colspan="2">
+Sega is trying their best to hype up everything to do with Dreamcast, the games included. And Sonic Adventure is the best known DC game right now. So Sega is spending tons of money to market this game. Check out this qoute from SegaX:
+<p><i> To that end, there has also been talk in Japan about a Sonic Adventure based television series, or even a movie in the works.</i>
+<p>Now, this might really be true. But look at it as a rumor right now. Still, Sonic Adventure: The Movie does sound good.  
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>More SA Pictures...</b> - Zifei 4:12pm CST, 11-09-98</td></tr>
+<tr><td colspan="2">
+Here's more Sonic Adventure shots for you to drool over, scanned from the SSM:
+<p><a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image1.jpg">Image 1</a>, <a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image2.jpg">Image 2</a>, <a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image3.jpg">Image 3</a>, <br>
+<a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image4.jpg">Image 4</a>, <a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image5.jpg">Image 5</a>, <a href="https://web.archive.org/web/20011211111543/http://www.dimension-s.com/images/sega-news/nov98/image6.jpg">Image 6</a>.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic #67 Release Date!</b> - Zifei 4:06pm CST, 11-09-98</td></tr>
+<tr><td colspan="2">
+Archie Comic's Sonic the Hedgehog #67 will be released in comic stores across America on the 25th of November.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>New SA Movie!</b> - Zifei 7:36pm CST, 11-06-98</td></tr>
+<tr><td colspan="2">
+Gaming-Age have put up a new Sonic Adventure Movie. I'm sure there's a bunch of Sonic Adventure movies out there on the web that I forgot to report, so I'll apologize now. Anyway, click <a href="http://www.gaming-age.com/media/sonicbeach.mpg">here</a> to download.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sega Says 60 FPS!</b> - Zifei 7:31pm CST, 11-06-98</td></tr>
+<tr><td colspan="2">
+At Gamer's Day on November 5th, Sega officials confirmed that Sonic Adventure will be run at 60 frames per second at all times through the game. Here's a quote from Gamespot about Sonic Adventure at the show:
+<p><i>Sonic Adventures wasn't playable and Sega reported that it had just received a more recent build of the title but would not have it available for showing. Sega did say that all levels in Adventures would run at 60 FPS - contrary to rumour that 60 FPS would only be available on the action levels and adventure levels would run only at 30 FPS.</i>
+<p>Well, that settles the frame rate debate for good...I hope... 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA The 5th Most Wanted!</b> - Zifei 4:31pm CST, 11-05-98</td></tr>
+<tr><td colspan="2">
+This poll is taken by Weekly Famitsu, not by Game Weekly which had Sonic Adventure as #1. Anyway, Sonic Adventure is #5 after Final Fantasy VIII, Dragon Quest VII, Zelda 64, and Virtual Fighter 3tb.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Game Gear 2?!</b> - Zifei 4:25pm CST, 11-05-98</td></tr>
+<tr><td colspan="2">
+Not really related to Sonic except if a lot of Sonic games show up on it, but anyway. Game Plus is reporting a rumor we reported about 5 month ago that Sega is planning/making a new hand held system. This is a rumor right now, but bets are that it is true. If it is true, a Sonic Adventure port is possible since the hand held should have a 32 or 64 bit internal proccessing unit that should be able to hand good graphics.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic HQ Moving!</b> - Zifei 3:59pm CST, 11-05-98</td></tr>
+<tr><td colspan="2">
+Thanks to Andrew Wolan, we're moving to Emulation Zone. Over there, there will not be any Java errors, there will not be any pop ups, and everyone will be happy. Expect a NEW Sonic HQ on New Year's Day 1999. More on this later.
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Info!</b> - Zifei 3:55pm CST, 11-05-98</td></tr>
+<tr><td colspan="2">
+First off, click <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/worldmap.jpg">here</a> to view the map of Sonic Adventure. This picture shows off where all the zones are. Then we learn that Sonic characters could travel by <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/station1.jpg">train</a>; the environment in the game will change through the <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/daynite.jpg">day</a>; there's a lot of <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sonic1.jpg">passers-by</a>; characters could carry <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sonic2.jpg">stuff</a>; and Sonic can go into shops and look <a href="https://web.archive.org/web/20011211111543/http://www.geocities.com/Tokyo/Shrine/5836/dc/sonicadv/sonic3.jpg">around</a>! Incredible! 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Gets Delayed!</b> - Zifei 3:37pm CST, 11-04-98</td></tr>
+<tr><td colspan="2">
+The rumors turned out to be fact. Sega of Japan confirmed that several of the Dreamcast games will be delayed, including Sonic Adventure. The new release date for Sonic Adventure is December 23rd.  
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic Team Stuff...</b> - Zifei 3:32pm CST, 11-03-98</td></tr>
+<tr><td colspan="2">
+You know the update I talked about which the Sonic Team did to their page two days ago? Well, someone put up a translation to the Japanese text:
+<p><i>It says that there will be a Sonic demo shown at the 5,000 DC Partner Shops in Japan in early November.
+It will be shown on real DC consoles and is not the movie but the latest real time 3D images of sequences
+shown at TGS. It does not say, but I believe it is not a self-running demo and gives fans the opportunity
+to try it out.
+<p>There is an album of best songs from the Sonic Team called, 'Power Play', to be released on Nov 6th for
+2,310 Yen. There are 11 songs, with English titles, and a 'Secret track' on which you may be able to hear
+a sneak preview of the future. The blurb says,'Seriously, the album will inevitably sell out!'.</i>
+<p>I hope those people at SoA will have enough mind to bring the album over here... 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>SA Delayed Again?</b> - Zifei 3:12pm CST, 11-03-98</td></tr>
+<tr><td colspan="2">
+According to very some well-placed sources, Sonic Adventure might be delayed yet again. This might turn out to be a one week delay, or it might be a one month delay. Whatever the case, I just like to point out that it is to our benefit (the ones in the States and Europe who's NOT importing) that the Sonic Team gets all the time they need to make the game perfect. 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic Rally?</b> - Zifei 5:26pm CST, 11-02-98</td></tr>
+<tr><td colspan="2">
+Someone (he/she forgot to write a name) told me that:
+<p><i>I went to Babbage's to find Sonic R because the release date I heard was at the end of October.  They said they didn't have it but a game called "Sonic Rally", also made by Sega, was coming out on November 10.</i>
+<p>Hmmm...so Sega decided to delay the game change the name Sonic R PC to Sonic Rally? Cool change, I like it. Now if I can only find any info on Sonic R 2 for Dreamcast...
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>New SA Pictures!</b> - Zifei 4:31pm CST, 11-02-98</td></tr>
+<tr><td colspan="2">
+The Sonic Team put up newer pictures of Sonic Adventure on their website today. They look a lot better than the Sonic Adventure we saw on August 22! You can see that the Sonic Team really worked on the graphic engine. Click below to view them. Note that the links are connected to Sonic Team's server, so sometimes high traffic will slow down the downloading.
+<p><a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed002.jpg">Image 1</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed085.jpg">Image 2</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed057.jpg">Image 3</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed075.jpg">Image 4</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed038.jpg">Image 5</a>,<br> 
+<a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed048.jpg">Image 6</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed070.jpg">Image 7</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed061.jpg">Image 8</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed068.jpg">Image 9</a>, <a href="https://web.archive.org/web/20011211111543/http://www.sega.co.jp/sonicteam/sonicadv/shot/advss/officed024.jpg">Image 10</a>. 
+</td></tr></table>
+
+<p>
+<table width="445" cellpadding="2" cellspacing="0" border="0" align="center">
+<tr><td bgcolor="#5F9F9F" align="left" colspan="2"><font size="+1" color="#ADEAEA">
+<b>Sonic Adventure Wallpaper!</b> - Zifei 4:26pm CST, 11-02-98</td></tr>
+<tr><td colspan="2">
+The Sonic Team did a huge update to their webpage today (that's yesterday in Japan). A Sonic Adventure wallpaper was include in the update. The wallpaper looks like <a href="https://web.archive.org/web/20011211111543/http://www.seganet.com/pics/sonicwpsmall.jpg">this</a>. You can download them below:
+<p><a href="https://web.archive.org/web/20011211111543/http://www.seganet.com/pics/sonicwp1024.jpg">1024x768</a>, <a href="https://web.archive.org/web/20011211111543/http://www.seganet.com/pics/sonicwp800.jpg">800x600</a>, <a href="https://web.archive.org/web/20011211111543/http://www.seganet.com/pics/sonicwp640.jpg">640x480</a>. 
+</td></tr></table>
+
+
+<CENTER>
+
+<HR><font size="-1">
+
+All news related to Sonic the Hedgehog are copyright to Sega Enterprise, Archie, DiC Productions and other parties involved. Exclusive news are properties of Sonic News Press and Sonic HQ, they may not be distributed without permission. Special thanks goes out to the people that make this page possible and the Sonic News Press Crew of Sonic HQ (Zifei and Swifty).</H4></CENTER>
+
+
+
+</HTML>
+
