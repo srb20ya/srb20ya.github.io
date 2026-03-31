@@ -1,0 +1,1283 @@
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1
+
+27/03/2026  13:45    <DIR>          .
+27/03/2026  13:45    <DIR>          ..
+28/02/2024  20:12    <DIR>          angelfire
+28/02/2024  20:12    <DIR>          geocities
+28/02/2024  20:12    <DIR>          tripod
+30/03/2026  15:25            62,247 fileList.txt
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\angelfire
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          ok
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\angelfire\ok
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          warpsonic
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\angelfire\ok\warpsonic
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          images
+27/03/2026  21:16             9,266 animated.html
+27/03/2026  21:16            10,133 desktop.html
+27/03/2026  21:16             8,194 Download.html
+27/03/2026  21:16             9,135 games.html
+27/03/2026  21:16             8,731 index.html
+27/03/2026  21:16             9,103 main.html
+27/03/2026  21:16            12,099 menu.html
+27/03/2026  21:16             9,127 pictures.html
+28/02/2024  20:12             1,087 sitemap.xml
+               9 File(s)         76,875 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\angelfire\ok\warpsonic\images
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             1,609 aniknux.gif
+28/02/2024  20:12             1,525 animgif.gif
+28/02/2024  20:12             1,739 animgif2.gif
+28/02/2024  20:12             1,438 anisonic.gif
+28/02/2024  20:12             1,253 anitails.gif
+28/02/2024  20:12             3,683 bar1.gif
+28/02/2024  20:12             1,373 desktop.gif
+28/02/2024  20:12             1,443 desktop2.gif
+28/02/2024  20:12             1,306 games.gif
+28/02/2024  20:12             1,360 games2.gif
+28/02/2024  20:12             8,393 logo.gif
+28/02/2024  20:12             7,267 mcsonic.gif
+28/02/2024  20:12            24,864 mechason.gif
+28/02/2024  20:12             3,594 pasonic.gif
+28/02/2024  20:12             3,318 patails.gif
+28/02/2024  20:12            19,139 pcson3dblstbox.jpg
+28/02/2024  20:12            18,743 pcsonickbox.jpg
+28/02/2024  20:12             1,358 pictures.gif
+28/02/2024  20:12             1,445 pictures2.gif
+28/02/2024  20:12             1,768 ring.gif
+28/02/2024  20:12             5,033 S1.gif
+28/02/2024  20:12             6,325 sega1.gif
+28/02/2024  20:12            18,548 SegaSonic.gif
+28/02/2024  20:12            19,176 sncknuc.jpg
+28/02/2024  20:12             2,753 sonianm.gif
+28/02/2024  20:12            13,828 sonic3d.gif
+28/02/2024  20:12           191,827 sonic3d.zip
+28/02/2024  20:12             4,965 soniclite.gif
+28/02/2024  20:12            37,975 soniclogo.gif
+28/02/2024  20:12            98,858 sonico.zip
+28/02/2024  20:12            23,197 sonicone.gif
+28/02/2024  20:12            13,391 sonicp.gif
+28/02/2024  20:12            45,509 sonicp.zip
+28/02/2024  20:12            12,080 sonicthm.gif
+28/02/2024  20:12             7,345 sonicwaiting.gif
+28/02/2024  20:12             1,533 sonicwins.gif
+28/02/2024  20:12             4,254 sonknukw.gif
+28/02/2024  20:12            15,726 sonknukw.zip
+28/02/2024  20:12            13,438 sonlogo.gif
+28/02/2024  20:12            61,655 sonlogo.zip
+28/02/2024  20:12             9,468 sonta.gif
+28/02/2024  20:12           565,779 sontheme.zip
+28/02/2024  20:12             1,860 srun.gif
+28/02/2024  20:12            50,750 st.gif
+28/02/2024  20:12             2,590 swalk.gif
+28/02/2024  20:12            26,726 tails3d.gif
+              46 File(s)      1,361,207 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          EnchantedForest
+28/02/2024  20:12    <DIR>          pictures
+28/02/2024  20:12    <DIR>          TimesSquare
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          Cottage
+28/02/2024  20:12    <DIR>          Dell
+28/02/2024  20:12    <DIR>          Glade
+28/02/2024  20:12    <DIR>          Tower
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Cottage
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          8863
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Cottage\8863
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          Features
+18/04/1998  01:55             5,760 dulcy.gif
+13/09/1998  21:33            28,068 index.html
+09/09/1998  20:01             2,027 SatAM.html
+23/05/1998  17:07            18,719 Season2.html
+25/08/1998  04:41             5,593 SonicTV.html
+24/08/1998  00:49             8,019 SonicUnderground.html
+               6 File(s)         68,186 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Cottage\8863\Features
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          TopTen
+28/02/2024  20:12             1,146 BG.gif
+27/03/2026  21:16             6,127 Features.html
+               2 File(s)          7,273 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Cottage\8863\Features\TopTen
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+27/03/2026  21:16             1,908 TopTen.html
+27/03/2026  21:16             2,838 toptensonicpage.html
+               2 File(s)          4,746 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Dell
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          6657
+28/02/2024  20:12    <DIR>          7834
+28/02/2024  20:12    <DIR>          7835
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Dell\6657
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            28,827 32chaobox.gif
+28/02/2024  20:12            93,801 32chaoscr1.gif
+28/02/2024  20:12            98,080 32chaoscr2.gif
+28/02/2024  20:12           104,655 32chaoscr3.gif
+28/02/2024  20:12            14,390 amy1.gif
+28/02/2024  20:12            52,963 Arcade.jpg
+28/02/2024  20:12            34,483 azurelake.jpg
+28/02/2024  20:12             7,853 background.jpg
+28/02/2024  20:12            10,100 badnik.mid
+28/02/2024  20:12            28,719 baloonpark.jpg
+28/02/2024  20:12             9,371 bridge.mid
+27/03/2026  21:16             8,801 briefing.html
+28/02/2024  20:12            36,392 cd-wor-popfbox.gif
+28/02/2024  20:12             7,410 charmy.jpg
+28/02/2024  20:12             8,908 christmasnights.jpg
+28/02/2024  20:12            21,867 chromegadget.jpg
+28/02/2024  20:12             6,848 clouds.jpg
+28/02/2024  20:12            15,932 Ctboss2.mid
+28/02/2024  20:12             9,764 deathegg.jpg
+28/02/2024  20:12            21,857 deatheggboss1.jpg
+28/02/2024  20:12            29,469 deatheggboss2.jpg
+28/02/2024  20:12            22,669 deatheggboss3.jpg
+28/02/2024  20:12            22,577 deatheggboss4.jpg
+28/02/2024  20:12            30,071 deatheggboss5.jpg
+28/02/2024  20:12            33,646 desertpalace.jpg
+28/02/2024  20:12            18,526 diamonddust.jpg
+28/02/2024  20:12            27,374 dkc2hive.mid
+28/02/2024  20:12            17,586 dracbak.jpg
+28/02/2024  20:12             5,214 Drift2_2.gif
+28/02/2024  20:12             5,894 Drift2_4.gif
+28/02/2024  20:12             5,383 Drift2_6.gif
+28/02/2024  20:12             4,935 Drift2_7.gif
+28/02/2024  20:12             4,982 Drift2_8.gif
+28/02/2024  20:12             4,712 Drift2_9.gif
+28/02/2024  20:12             4,491 Drift210.gif
+28/02/2024  20:12             4,501 Drift211.gif
+28/02/2024  20:12             4,654 Drift212.gif
+28/02/2024  20:12             4,570 Drift213.gif
+28/02/2024  20:12             4,898 Drift214.gif
+28/02/2024  20:12             5,319 Drift215.gif
+28/02/2024  20:12            21,867 endlessmine.jpg
+28/02/2024  20:12            23,804 envelope2.gif
+28/02/2024  20:12             8,367 erobo.jpg
+28/02/2024  20:12             7,718 espio.jpg
+28/02/2024  20:12             9,349 Fight1.jpg
+28/02/2024  20:12             5,326 Fight5.jpg
+28/02/2024  20:12             4,064 FightersMegamix.html
+28/02/2024  20:12            11,327 final.jpg
+28/02/2024  20:12            12,652 floatingisland.jpg
+28/02/2024  20:12            30,130 flyingbattery.jpg
+28/02/2024  20:12            36,845 fmegamix.gif
+28/02/2024  20:12            14,737 genegadget.jpg
+28/02/2024  20:12            25,227 gesonclbox.jpg
+28/02/2024  20:12            36,576 ggchaobox.gif
+28/02/2024  20:12            37,973 Ggdrifbo.gif
+28/02/2024  20:12            33,377 ggdrrmbox.gif
+28/02/2024  20:12            38,769 Gglabybo.gif
+28/02/2024  20:12            20,901 ggsonblstbox.gif
+28/02/2024  20:12             4,335 ggsth2aqualake.gif
+28/02/2024  20:12             4,191 ggsth2crystalegg.gif
+28/02/2024  20:12             4,676 ggsth2finalboss.gif
+28/02/2024  20:12             5,917 ggsth2gimmickmt.gif
+28/02/2024  20:12             4,558 ggsth2greenhills.gif
+28/02/2024  20:12             2,243 ggsth2opener.gif
+28/02/2024  20:12             5,528 ggsth2scrambledegg.gif
+28/02/2024  20:12             4,001 ggsth2skyhigh.gif
+28/02/2024  20:12             3,511 ggsthbridgegif.gif
+28/02/2024  20:12             4,180 ggsthend.gif
+28/02/2024  20:12             5,871 ggsthfinal.gif
+28/02/2024  20:12             5,832 ggsthgreehhill.gif
+28/02/2024  20:12             4,393 ggsthjungle.gif
+28/02/2024  20:12             4,850 ggsthlabyrinth.gif
+28/02/2024  20:12             3,320 ggsthscrap.gif
+28/02/2024  20:12             4,622 ggsthskybase1.gif
+28/02/2024  20:12             5,004 ggsthspecial.gif
+28/02/2024  20:12             3,462 ggsthunderground.gif
+28/02/2024  20:12            39,314 Ggtailsb.gif
+28/02/2024  20:12             6,634 ggtailscr2b.gif
+28/02/2024  20:12             6,389 ggtailscr3b.gif
+28/02/2024  20:12            35,718 ggtripbox.gif
+28/02/2024  20:12             7,574 ggtripscr1b.gif
+28/02/2024  20:12             6,479 ggtripscr2b.gif
+28/02/2024  20:12             5,790 ggtripscr3b.gif
+28/02/2024  20:12            30,701 glowball.jpg
+28/02/2024  20:12             5,480 Gpsonic1.jpg
+28/02/2024  20:12             3,769 Gpsonic2.jpg
+28/02/2024  20:12             5,377 Gpsonic3.jpg
+28/02/2024  20:12             5,749 Gpsonic4.jpg
+28/02/2024  20:12            14,951 greengrove.jpg
+28/02/2024  20:12            13,033 groupshotblast.jpg
+28/02/2024  20:12            29,252 gumball.jpg
+28/02/2024  20:12            28,633 hiddenpalace.jpg
+28/02/2024  20:12            28,270 hpalace.gif
+28/02/2024  20:12            15,324 hvymetal.jpg
+28/02/2024  20:12            22,530 hydrocity.jpg
+28/02/2024  20:12             2,701 i-bark.jpg
+28/02/2024  20:12             2,772 i-bean.jpg
+27/03/2026  21:16            16,851 index.html
+27/03/2026  21:16             7,418 KnucklesChaotix.html
+28/02/2024  20:12            15,979 knuxmetal.GIF
+28/02/2024  20:12             4,307 Lalev1.mid
+28/02/2024  20:12            21,117 lavareef1.jpg
+28/02/2024  20:12            28,856 lavareef2.jpg
+28/02/2024  20:12            46,115 lavareef3.jpg
+28/02/2024  20:12            44,166 legends.jpg
+28/02/2024  20:12            18,629 littleplanet.jpg
+28/02/2024  20:12            35,014 mbm1.jpg
+28/02/2024  20:12            35,257 mbm2.jpg
+28/02/2024  20:12            22,009 mbm3.jpg
+28/02/2024  20:12            24,485 mbm5.jpg
+28/02/2024  20:12            11,883 meanbean.gif
+28/02/2024  20:12            23,936 meanbean1.jpg
+27/03/2026  21:16            11,011 MeanBeanMachine.html
+28/02/2024  20:12            55,997 megcdcvr.jpg
+28/02/2024  20:12            11,596 mknux.jpg
+28/02/2024  20:12            26,688 mm2-airm.mid
+28/02/2024  20:12            23,123 mobius.jpg
+28/02/2024  20:12            16,409 mobotro.jpg
+28/02/2024  20:12            82,540 moog1.jpg
+28/02/2024  20:12            90,324 moog2.jpg
+28/02/2024  20:12            64,457 moog3.jpg
+28/02/2024  20:12            75,714 moog4.jpg
+28/02/2024  20:12            96,416 moog6.jpg
+28/02/2024  20:12            12,599 msonic.jpg
+28/02/2024  20:12            11,817 mtails.jpg
+28/02/2024  20:12             8,576 noway.GIF
+28/02/2024  20:12             7,779 noway.mid
+28/02/2024  20:12            11,206 p_amy.jpg
+28/02/2024  20:12             8,176 p_chaos.jpg
+28/02/2024  20:12            11,654 p_knux.jpg
+28/02/2024  20:12            12,162 p_robo.jpg
+28/02/2024  20:12            10,885 p_sonic1.jpg
+28/02/2024  20:12            15,864 p_tails.jpg
+28/02/2024  20:12            26,016 panicp1.mid
+28/02/2024  20:12            15,829 panicpuppet.jpg
+28/02/2024  20:12             8,358 panicpuppetthumb.jpg
+28/02/2024  20:12            22,459 pcschobox.gif
+28/02/2024  20:12            18,743 pcsonickbox.jpg
+28/02/2024  20:12             5,867 phantasy.jpg
+28/02/2024  20:12            32,130 picosonicgwbox.gif
+28/02/2024  20:12            33,352 pinball.jpg
+28/02/2024  20:12           112,987 pitailmusbox.gif
+28/02/2024  20:12            41,886 pitailmusscr1.gif
+28/02/2024  20:12            84,065 pitailmusscr2.gif
+28/02/2024  20:12            51,237 pitailmusscr3.gif
+28/02/2024  20:12             3,784 pjsmini2.gif
+28/02/2024  20:12             8,890 resortisland.jpg
+28/02/2024  20:12            20,743 rm04.jpg
+28/02/2024  20:12            10,591 robo1.gif
+28/02/2024  20:12            10,328 rotown.jpg
+28/02/2024  20:12            16,374 rustyruin.jpg
+27/03/2026  21:16             2,428 S_KCollection.html
+28/02/2024  20:12             9,913 s1k.gif
+28/02/2024  20:12            16,545 s3andk.gif
+28/02/2024  20:12            43,002 s3dbfinalfightjw.mid
+28/02/2024  20:12            16,663 s3dblast.gif
+28/02/2024  20:12            16,434 sandk.gif
+28/02/2024  20:12            23,778 sasonic_jbox.jpg
+28/02/2024  20:12            15,510 sat_sonic3d_screenshot03.jpg
+28/02/2024  20:12            12,156 Satson1.jpg
+28/02/2024  20:12             9,441 Satson2.jpg
+28/02/2024  20:12             9,952 scaquaplanet.gif
+28/02/2024  20:12            15,711 scdamy.GIF
+28/02/2024  20:12            13,592 scdcollisionbad.GIF
+28/02/2024  20:12            16,792 scdcollisiongood.GIF
+28/02/2024  20:12            18,381 scdcollisionpast.GIF
+28/02/2024  20:12            16,199 scdcollisionpresent.GIF
+28/02/2024  20:12            18,036 scdfinboss.GIF
+28/02/2024  20:12            20,720 scdmetalmadnessgood.GIF
+28/02/2024  20:12            13,458 scdmetalmadnesspast.GIF
+28/02/2024  20:12            19,666 scdmetalmadnesspresent.GIF
+28/02/2024  20:12            26,133 scdpalmtreebad.GIF
+28/02/2024  20:12            24,379 scdpalmtreegood.GIF
+28/02/2024  20:12            17,508 scdpalmtreepanicpresent.GIF
+28/02/2024  20:12            18,094 scdpalmtreepast.GIF
+28/02/2024  20:12            19,568 scdquartz.GIF
+28/02/2024  20:12            20,166 scdquartzbad.GIF
+28/02/2024  20:12            19,862 scdquartzgood.GIF
+28/02/2024  20:12            20,911 scdquartzpast.GIF
+28/02/2024  20:12            21,149 scdspecial.GIF
+28/02/2024  20:12            12,863 scdstardustpast.GIF
+28/02/2024  20:12            10,948 scdstardustpresent.GIF
+28/02/2024  20:12            19,910 scdstardustspeedwaybad.GIF
+28/02/2024  20:12            13,205 scdstardustspeedwaygood.GIF
+28/02/2024  20:12            21,008 scdtidaltempestbad.GIF
+28/02/2024  20:12            25,526 scdtidaltempestgood.GIF
+28/02/2024  20:12            25,071 scdtidaltempestpast.GIF
+28/02/2024  20:12            22,646 scdtidaltempestpresent.GIF
+28/02/2024  20:12            19,505 scdwackyworkbad.GIF
+28/02/2024  20:12            18,493 scdwackyworkgood.GIF
+28/02/2024  20:12            18,437 scdwackyworkpast.GIF
+28/02/2024  20:12            17,181 scdwackyworkpresent.GIF
+28/02/2024  20:12             8,733 scelectricegg.gif
+28/02/2024  20:12            10,103 scfinalboss.gif
+28/02/2024  20:12             7,524 scgigalopolis.gif
+28/02/2024  20:12             5,502 scmechagreenhill.gif
+28/02/2024  20:12             4,944 scopener.gif
+28/02/2024  20:12            21,210 screenshot2.gif
+28/02/2024  20:12             9,078 scsleepingegg.gif
+28/02/2024  20:12             7,379 scturquoise.gif
+28/02/2024  20:12            14,667 sd1greenhill.jpg
+28/02/2024  20:12            14,101 sd1labyrinth.jpg
+28/02/2024  20:12            14,229 sd1marble.jpg
+28/02/2024  20:12            13,474 sd1scrapbrain.jpg
+28/02/2024  20:12            10,903 sd1select.jpg
+28/02/2024  20:12            14,258 sd1springyard.jpg
+28/02/2024  20:12            13,826 sd1starlight.jpg
+28/02/2024  20:12            10,649 sd2amy.jpg
+28/02/2024  20:12            14,861 sd2casinonight.jpg
+28/02/2024  20:12             8,179 sd2champ.jpg
+28/02/2024  20:12            11,809 sd2darkvalley1.jpg
+28/02/2024  20:12            12,513 sd2desertroad1.jpg
+28/02/2024  20:12            12,626 sd2eggman.jpg
+28/02/2024  20:12            13,208 sd2emeraldhill1.jpg
+28/02/2024  20:12            14,593 sd2hilltop1.jpg
+28/02/2024  20:12             8,098 sd2knux.jpg
+28/02/2024  20:12             5,929 sd2metalsonic.jpg
+28/02/2024  20:12            10,004 sd2nack.jpg
+28/02/2024  20:12             5,926 sd2screen.jpg
+28/02/2024  20:12            12,573 sd2sonic.jpg
+28/02/2024  20:12            10,310 sd2tails.jpg
+28/02/2024  20:12             6,213 sdrift1.gif
+28/02/2024  20:12             7,070 sdrift2.gif
+28/02/2024  20:12             3,898 sega_cd.gif
+28/02/2024  20:12            28,480 segatop.gif
+28/02/2024  20:12             2,055 SisterSonic.html
+28/02/2024  20:12            17,004 skysanc.mid
+28/02/2024  20:12             7,516 slabgg.gif
+28/02/2024  20:12            10,512 snowboard.jpg
+28/02/2024  20:12            13,034 son1gren.mid
+28/02/2024  20:12            12,364 son2cut.jpg
+28/02/2024  20:12            12,676 sonadv-characters.html
+28/02/2024  20:12            23,326 sonadvwalkthrough.html
+28/02/2024  20:12             6,911 sonchaos.gif
+27/03/2026  21:16            47,639 Sonic_Knuckles.html
+28/02/2024  20:12            15,049 sonic1.gif
+27/03/2026  21:16            13,687 Sonic1.html
+28/02/2024  20:12             4,986 sonic1gg.gif
+27/03/2026  21:16            18,609 Sonic1GG.html
+28/02/2024  20:12            11,935 sonic2.gif
+27/03/2026  21:16            25,980 Sonic2.html
+28/02/2024  20:12            25,886 sonic2andk.gif
+28/02/2024  20:12             5,507 sonic2gg.gif
+27/03/2026  21:16            17,989 Sonic2GG.html
+28/02/2024  20:12            15,492 sonic3.gif
+27/03/2026  21:16            58,620 Sonic3.html
+27/03/2026  21:16            21,435 Sonic3DBlast.html
+27/03/2026  21:16             9,872 SonicAdventure.html
+27/03/2026  21:16             3,053 SonicArcade.html
+28/02/2024  20:12             4,703 SonicBlastGG.html
+28/02/2024  20:12            18,438 soniccd.gif
+27/03/2026  21:16            23,282 SonicCD.html
+27/03/2026  21:16             3,141 SonicChampionship.html
+27/03/2026  21:16            11,624 SonicChaos.html
+27/03/2026  21:16             2,919 SonicClassics.html
+27/03/2026  21:16             3,342 SonicCrackers.html
+28/02/2024  20:12             3,406 SonicDreams.html
+27/03/2026  21:16             7,581 SonicDrift.html
+27/03/2026  21:16            20,795 SonicDrift2.html
+27/03/2026  21:16             2,091 SonicGameWorld.html
+27/03/2026  21:16            25,075 SonicJam.html
+27/03/2026  21:16            11,080 SonicLabyrinth.html
+28/02/2024  20:12            26,492 sonicnknux.mid
+28/02/2024  20:12            20,685 sonicr.gif
+27/03/2026  21:16            21,823 SonicR.html
+28/02/2024  20:12             1,808 SonicSchoolhouse.html
+27/03/2026  21:16            13,954 SonicSpinball.html
+27/03/2026  21:16            20,944 SonicTTT.html
+27/03/2026  21:16             1,783 SonicTwoInOne.html
+28/02/2024  20:12             3,822 SonicXtreme.html
+28/02/2024  20:12            14,145 sonjam.jpg
+28/02/2024  20:12            16,609 sonjam0.gif
+28/02/2024  20:12             6,320 sontail2.gif
+28/02/2024  20:12            16,040 southisland.jpg
+28/02/2024  20:12            13,198 special.jpg
+28/02/2024  20:12            15,130 spinball.gif
+28/02/2024  20:12            34,649 splash2.jpg
+28/02/2024  20:12            15,279 springstadium.jpg
+28/02/2024  20:12            12,527 ssfinal.gif
+28/02/2024  20:12             9,648 ssfortress.gif
+28/02/2024  20:12            16,256 sslava2.gif
+28/02/2024  20:12            10,666 sslavapowerhouse.gif
+28/02/2024  20:12            11,433 ssmachine1.gif
+28/02/2024  20:12            13,250 ssmachine2.gif
+28/02/2024  20:12             7,912 ssonic.jpg
+28/02/2024  20:12            19,310 ssrexxon.gif
+28/02/2024  20:12            14,546 ssrobo.gif
+28/02/2024  20:12            19,499 ssscorpius.gif
+28/02/2024  20:12            14,857 ssscratch.gif
+28/02/2024  20:12            15,205 ssshowdown.gif
+28/02/2024  20:12            13,620 ssteeth.gif
+28/02/2024  20:12            18,235 sstoxic1.gif
+28/02/2024  20:12            19,811 sstoxic2.gif
+28/02/2024  20:12             1,909 stars.gif
+28/02/2024  20:12            24,588 stflo.jpg
+28/02/2024  20:12            13,646 sth_4.gif
+28/02/2024  20:12            29,978 sth_4.jpg
+28/02/2024  20:12            13,395 sth_5.gif
+28/02/2024  20:12            10,611 sth10.gif
+28/02/2024  20:12            19,499 sth2aquaruin.gif
+28/02/2024  20:12            11,307 sth2casino.gif
+28/02/2024  20:12            16,624 sth2chemplant.gif
+28/02/2024  20:12            12,321 sth2corkscrew.gif
+28/02/2024  20:12            12,508 sth2deathegg.gif
+28/02/2024  20:12            41,963 sth2g-04.mid
+28/02/2024  20:12            14,438 sth2hilltop.gif
+28/02/2024  20:12            15,325 sth2metropolis.gif
+28/02/2024  20:12            17,579 sth2mysticcave.gif
+28/02/2024  20:12             8,962 sth2oilocean.gif
+28/02/2024  20:12            14,139 sth2robo.gif
+28/02/2024  20:12             7,159 sth2skychase.gif
+28/02/2024  20:12             8,775 sth2special.gif
+28/02/2024  20:12             7,977 sth2wingfort.gif
+28/02/2024  20:12            37,927 sth3_1.jpg
+28/02/2024  20:12            20,012 sth3_2.jpg
+28/02/2024  20:12            18,772 sth3_3.jpg
+28/02/2024  20:12            11,278 sth7.gif
+28/02/2024  20:12            17,362 sth8.gif
+28/02/2024  20:12            16,278 sth9.gif
+28/02/2024  20:12            13,796 sthfinal.gif
+28/02/2024  20:12             5,520 sthggmap.gif
+28/02/2024  20:12            12,880 sthgreenhill.gif
+28/02/2024  20:12            12,813 sthgreenhillboss.gif
+28/02/2024  20:12            14,813 sthlabyrinth.gif
+28/02/2024  20:12            14,568 sthmarble.gif
+28/02/2024  20:12            11,079 sthscrap.gif
+28/02/2024  20:12            14,221 sthspecial.gif
+28/02/2024  20:12            14,260 sthspringyard.gif
+28/02/2024  20:12             9,009 sthstarlight.gif
+28/02/2024  20:12             4,844 Stt_1.gif
+28/02/2024  20:12             4,346 Stt_2.gif
+28/02/2024  20:12             6,030 Stt_3.gif
+28/02/2024  20:12             5,563 Stt_4.gif
+28/02/2024  20:12             5,045 Stt_5.gif
+28/02/2024  20:12             5,132 Stt_6.gif
+28/02/2024  20:12             2,149 Stt_7.gif
+28/02/2024  20:12             5,667 Stt_8.gif
+28/02/2024  20:12            11,789 supersonic1.gif
+28/02/2024  20:12             2,049 Tails_MusicMaker.html
+28/02/2024  20:12             5,734 TailsAdventure.html
+28/02/2024  20:12            14,294 tailsisland.jpg
+28/02/2024  20:12             1,394 TailsSkyPatrol.html
+28/02/2024  20:12           111,453 Take_the_Snow_Train.mid
+28/02/2024  20:12            28,692 tbbutton.gif
+28/02/2024  20:12            37,918 therealgang.jpg
+28/02/2024  20:12            18,740 tmnt-und.mid
+28/02/2024  20:12             4,789 ttboss1.GIF
+28/02/2024  20:12             6,307 untitled2.jpg
+28/02/2024  20:12             8,886 vector.jpg
+28/02/2024  20:12             6,945 vegofortress.jpg
+28/02/2024  20:12            14,041 volcanovalley.jpg
+28/02/2024  20:12            28,354 whoswho.jpg
+28/02/2024  20:12            25,567 Wood1_1.mid
+             353 File(s)      6,221,988 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Dell\7834
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             1,759 0CI.gif
+28/02/2024  20:12             1,597 0FA.gif
+28/02/2024  20:12             1,947 0SDO.gif
+28/02/2024  20:12             2,003 0SFE.gif
+28/02/2024  20:12             1,878 0SG.gif
+27/03/2026  21:16             2,758 1.html
+27/03/2026  21:16             5,916 2.html
+27/03/2026  21:16            26,228 3.html
+27/03/2026  21:16            30,173 4.html
+27/03/2026  21:16             6,722 5.html
+27/03/2026  21:16             7,635 6.html
+28/02/2024  20:12            18,373 ad.jpg
+27/03/2026  21:16            31,038 August98QA.html
+28/02/2024  20:12            10,690 award.gif
+27/03/2026  21:16             1,927 awards.html
+28/02/2024  20:12             6,715 awardthecool.gif
+28/02/2024  20:12            11,214 background.gif
+28/02/2024  20:12            33,561 BIQ.txt
+28/02/2024  20:12             1,492 bluebar.jpg
+28/02/2024  20:12            83,662 CaptureTheFlag.txt
+28/02/2024  20:12             1,110 chat.html
+28/02/2024  20:12            12,771 concept.jpg
+27/03/2026  21:16            17,517 cool.html
+28/02/2024  20:12            48,246 FH.txt
+28/02/2024  20:12               227 grnstar.gif
+28/02/2024  20:12               224 home.html
+27/03/2026  21:16             3,157 HQstaff.html
+28/02/2024  20:12             4,179 icon298.gif
+28/02/2024  20:12               224 index.html
+27/03/2026  21:16            23,335 July98QA.html
+27/03/2026  21:16            12,438 June98QA.html
+27/03/2026  21:16             8,902 links.html
+27/03/2026  21:16             6,108 main.html
+28/02/2024  20:12             4,318 mara-re.html
+28/02/2024  20:12             4,144 marble1.jpg
+27/03/2026  21:16            14,754 May98QA.html
+28/03/2026  15:47             2,266 menu.html
+28/02/2024  20:12            70,192 MOT.txt
+28/02/2024  20:12            85,825 Move.jpg
+28/02/2024  20:12            12,670 Purple.gif
+28/02/2024  20:12            10,418 QA.gif
+27/03/2026  21:16             7,089 rap.html
+28/02/2024  20:12            32,201 rap1.jpg
+28/02/2024  20:12            32,603 rap3.jpg
+28/02/2024  20:12            35,242 rap4.jpg
+28/02/2024  20:12             9,432 raptails.JPG
+28/02/2024  20:12            25,893 rtp.jpg
+27/03/2026  21:16            14,924 September98QA1.html
+27/03/2026  21:16            22,326 September98QA2.html
+28/02/2024  20:12             2,720 SHQ.gif
+28/02/2024  20:12            43,934 slink.jpg
+28/02/2024  20:12             4,965 soniclite.gif
+28/02/2024  20:12             4,743 Sonlogo.gif
+28/02/2024  20:12             7,624 Tailsb.gif
+28/02/2024  20:12            47,933 Top.jpg
+28/02/2024  20:12               168 UP.gif
+28/02/2024  20:12            10,362 video_sonicadventure2.JPG
+28/02/2024  20:12             9,357 video_sonicadventureamy.JPG
+28/02/2024  20:12           109,322 WhenBMB.txt
+28/02/2024  20:12             4,106 ZSP.gif
+              60 File(s)      1,055,257 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Dell\7835
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+27/03/2026  21:16             2,138 3dblast.html
+27/03/2026  21:16             2,921 3DBlastCD.html
+27/03/2026  21:16             2,265 anime.html
+28/02/2024  20:12             1,865 aosthrobotnikajf.mid
+28/02/2024  20:12             4,873 bar1.gif
+27/03/2026  21:16             1,605 cartoon.html
+27/03/2026  21:16             1,829 cartoon1.html
+28/02/2024  20:12            11,038 cbambooboimejw.mid
+28/02/2024  20:12             5,355 cchaosemeraldsjw.mid
+28/02/2024  20:12             6,677 celevatorsonicjj.mid
+28/02/2024  20:12            20,744 cgleamingglacierjw.mid
+27/03/2026  21:16             4,042 chaotix.html
+28/02/2024  20:12            23,116 cmobianrenaissancejw.mid
+28/02/2024  20:12             5,811 colord.gif
+27/03/2026  21:16             2,574 compositions.html
+28/02/2024  20:12             8,748 csallyal.mid
+27/03/2026  21:16             3,149 Ergon.html
+27/03/2026  21:16             2,750 ggsonic1.html
+27/03/2026  21:16             2,000 ggsonic2.html
+28/02/2024  20:12             9,371 gs1bridgejr.mid
+28/02/2024  20:12            41,963 gs2greenhillsk.mid
+27/03/2026  21:16            20,751 index.html
+28/02/2024  20:12            36,664 kcasolatedislandk3.mid
+28/02/2024  20:12             5,300 KCChaotix.mid
+28/02/2024  20:12            38,979 kcentrance.mid
+28/02/2024  20:12            23,608 KR.mid
+27/03/2026  21:16             5,492 megacd.html
+28/02/2024  20:12             8,473 mscdcollisionchaosbjr.mid
+28/02/2024  20:12            18,302 mscdcollisionchaosgjj.mid
+28/02/2024  20:12            15,814 mscdcollisionchaosgjj2.mid
+28/02/2024  20:12            41,001 mscdcollisionchaosjj.mid
+28/02/2024  20:12            19,562 mscdpalmtreepanicek.mid
+28/02/2024  20:12             9,642 mscdquartzquadrantgjj.mid
+28/02/2024  20:12             9,929 mscdquartzquadrantgjj2.mid
+28/02/2024  20:12            17,870 mscdquartzquadrantjj.mid
+28/02/2024  20:12            17,988 mscdquartzquadrantjj2.mid
+28/02/2024  20:12            21,857 mscdstardustspeedwayg2ek.mid
+28/02/2024  20:12            21,586 mscdstardustspeedwaygek.mid
+28/02/2024  20:12            13,021 mscdtidaltempestbjj.mid
+28/02/2024  20:12             6,207 mscdtidaltempestgjw.mid
+28/02/2024  20:12            18,171 mscdwackyworkbenchgjj.mid
+27/03/2026  21:16             1,830 musiccd.html
+27/03/2026  21:16             1,889 musiccd2.html
+28/02/2024  20:12            10,284 musiclogo.gif
+27/03/2026  21:16            20,046 new2_4_98.html
+27/03/2026  21:16            17,974 new5_98.html
+27/03/2026  21:16            15,518 new6_98.html
+27/03/2026  21:16            27,462 new7_98.html
+27/03/2026  21:16            19,978 new81-2_98.html
+27/03/2026  21:16            28,694 new82-2_98.html
+28/02/2024  20:12             2,971 News_Ben_interview.txt
+28/02/2024  20:12             5,233 News_salesgraph.gif
+28/02/2024  20:12             4,311 News_SanDiego98.txt
+28/02/2024  20:12             4,138 News_SanDiego982.txt
+28/02/2024  20:12             2,593 News_SonicUnderground.txt
+28/02/2024  20:12             2,963 News1.txt
+28/02/2024  20:12             6,670 News2.txt
+27/03/2026  21:16             1,902 Newscrew.html
+28/02/2024  20:12             5,459 newsSSS7article.txt
+27/03/2026  21:16             6,207 page3.html
+27/03/2026  21:16            13,193 page4.html
+28/02/2024  20:12             4,258 r2pmysticcavesjd.zip
+28/02/2024  20:12             4,866 rbossdancejdh.zip
+28/02/2024  20:12            30,464 rbotonicbasek.mid
+28/02/2024  20:12            15,337 rcasinonightmg.mid
+28/02/2024  20:12            30,438 rchemicalplantajf.mid
+28/02/2024  20:12             4,600 rcompetitionrs.mid
+28/02/2024  20:12            20,048 rcreditsjw.mid
+28/02/2024  20:12            29,880 rcreditss.mid
+28/02/2024  20:12             9,660 remeraldhillajf.mid
+28/02/2024  20:12             2,985 remeraldhillajf2.mid
+27/03/2026  21:16             8,336 remix.html
+28/02/2024  20:12            17,551 rfastestthingek.mid
+28/02/2024  20:12            16,068 rfastestthingek2.mid
+28/02/2024  20:12            30,020 rgreenhilljt.mid
+28/02/2024  20:12            16,296 rhiddenpalacejj.mid
+28/02/2024  20:12            11,244 rhiddenpalacesajf.mid
+28/02/2024  20:12            11,643 rhilltopek.mid
+28/02/2024  20:12             4,856 ricecapjd.zip
+28/02/2024  20:12            44,074 ricecapwa.mid
+28/02/2024  20:12             9,424 rlabyrinthmg.mid
+28/02/2024  20:12            38,901 rlavareef.mid
+28/02/2024  20:12             4,775 rmarblejd.zip
+28/02/2024  20:12            25,637 rmarblejt.mid
+28/02/2024  20:12            33,489 rmarinamadnessk.mid
+27/03/2026  21:47            57,045 rmetrocitydb.mid
+28/02/2024  20:12             4,736 rmetropolisjdh.zip
+28/02/2024  20:12            40,327 rquartzquadrantjj.mid
+28/02/2024  20:12             4,928 rs3creditsjd.zip
+28/02/2024  20:12            12,978 rscrapbrainmg.mid
+28/02/2024  20:12             4,198 rskychasejd.zip
+28/02/2024  20:12            22,476 rsonic3creditsmb.mid
+28/02/2024  20:12            26,492 rsonknuxdb.mid
+28/02/2024  20:12             5,139 rstarlightjd.zip
+28/02/2024  20:12             3,045 S1Bonus.mid
+28/02/2024  20:12               507 S1Continue.mid
+28/02/2024  20:12             1,237 s1gg1upjw.mid
+28/02/2024  20:12             9,992 s1ggbridgejw2.mid
+28/02/2024  20:12             1,446 s1ggfinishjw.mid
+28/02/2024  20:12            12,491 s1gggreenhilljw.mid
+28/02/2024  20:12            10,808 s1ggjunglejw.mid
+28/02/2024  20:12            10,357 s1gglabyrinthjw.mid
+28/02/2024  20:12            14,116 s1starlightmg.mid
+28/02/2024  20:12             8,562 s2emeraldhillajf.mid
+28/02/2024  20:12             1,631 s2ggactintrojw.mid
+28/02/2024  20:12            39,274 s2gggreenhillsjw.mid
+28/02/2024  20:12            12,505 S2Mysticcaves.mid
+28/02/2024  20:12            32,479 s2mysticcavesk.mid
+28/02/2024  20:12            24,609 s3angelisland2jw.MID
+28/02/2024  20:12            37,004 s3angelislandjr.mid
+28/02/2024  20:12             9,445 s3carnivalnight2jj.mid
+28/02/2024  20:12             7,564 s3carnivalnight2jw.mid
+28/02/2024  20:12            14,213 s3carnivalnightjj.mid
+28/02/2024  20:12             5,741 s3carnivalnightjw.mid
+28/02/2024  20:12            26,258 S3Carnivalnights.mid
+28/02/2024  20:12             5,808 s3competitionjj.mid
+28/02/2024  20:12            17,886 s3creditsek.mid
+28/02/2024  20:12            17,886 s3creditsek2.mid
+28/02/2024  20:12            22,773 s3creditsek3.mid
+28/02/2024  20:12            22,559 s3creditsjj.mid
+28/02/2024  20:12            28,386 s3creditsjw.mid
+28/02/2024  20:12            24,929 s3dbcdgenegadgetjj.mid
+28/02/2024  20:12             1,363 s3dbcdgotsoniciconjw.mid
+28/02/2024  20:12            27,865 s3dbcdpanicpuppetjr.mid
+28/02/2024  20:12            43,869 s3dbcdvolcanovalley2jw.mid
+28/02/2024  20:12            46,672 s3dbcdvolcanovalleyjw.mid
+28/02/2024  20:12            21,504 s3dbdiamonddustjw.mid
+28/02/2024  20:12            34,277 s3dbfinalbossek.mid
+28/02/2024  20:12            43,002 s3dbfinalfightjw.mid
+28/02/2024  20:12               780 s3dbflickyjw.mid
+28/02/2024  20:12            24,929 S3DBGenegadget1.mid
+28/02/2024  20:12            35,121 s3endlessminets.mid
+28/02/2024  20:12            16,604 s3finalbossjw.mid
+28/02/2024  20:12            27,217 s3hydrocity2jw.mid
+28/02/2024  20:12            40,470 s3hydrocity2k.mid
+28/02/2024  20:12            18,859 s3icecap2jw.mid
+28/02/2024  20:12            15,980 s3icecapjr.mid
+28/02/2024  20:12            17,680 s3icecapjw.mid
+28/02/2024  20:12             3,932 s3knucklesjw.mid
+28/02/2024  20:12             4,001 s3launchbase2jj.mid
+28/02/2024  20:12             9,435 s3launchbase2jw.mid
+28/02/2024  20:12             5,038 s3launchbasejj.mid
+28/02/2024  20:12            11,346 s3launchbasejw.MID
+28/02/2024  20:12            17,421 s3marblegardenjw.mid
+28/02/2024  20:12            19,718 s3minibossjw.MID
+28/02/2024  20:12            11,600 s3minibossrjw.mid
+28/02/2024  20:12             1,292 s3perfectjw.mid
+28/02/2024  20:12             4,505 s3raseresultsjr.mid
+28/02/2024  20:12               588 s3stageclearjr.mid
+28/02/2024  20:12             1,487 sabirthmatallicajw.mid
+28/02/2024  20:12            15,482 scdcollisionchaosjj.mid
+28/02/2024  20:12            14,200 scdopeningbb2.mid
+28/02/2024  20:12            16,120 scdpalmtreepanicjj.mid
+28/02/2024  20:12            23,464 scdpalmtreepanicjj2.mid
+28/02/2024  20:12            24,101 scdpalmtreepanicjw.mid
+28/02/2024  20:12            22,154 scdquartzquadrantgjw.mid
+28/02/2024  20:12            10,471 scdquartzquadrantjj.mid
+28/02/2024  20:12            14,464 scdquartzquadrantjj2.mid
+28/02/2024  20:12            31,916 scdsonicboombb.mid
+28/02/2024  20:12            20,275 scdsonicboomek.mid
+28/02/2024  20:12            25,811 scdsonicboomek2.mid
+28/02/2024  20:12            14,047 scdsonicboomopeningbb.mid
+28/02/2024  20:12             3,136 scdspeedjw.mid
+28/02/2024  20:12            22,027 scdstardustspeedwayb.mid
+28/02/2024  20:12            17,529 scdstardustspeedwaybbb.mid
+28/02/2024  20:12            19,739 scdstardustspeedwaybjj.mid
+28/02/2024  20:12            11,489 scdstardustspeedwaybjw.mid
+28/02/2024  20:12            37,088 scdstardustspeedwayek.mid
+28/02/2024  20:12            15,940 scdstardustspeedwayjw.mid
+28/02/2024  20:12            14,204 scdtidaltempestgjw.mid
+28/02/2024  20:12            18,818 SCDWackyworkbenchb.mid
+28/02/2024  20:12            24,795 scdwackyworkbenchbb.mid
+28/02/2024  20:12            18,818 scdwackyworkbenchbjj.mid
+28/02/2024  20:12            11,179 scdwackyworkbenchgjw.mid
+28/02/2024  20:12            35,641 scdwackyworkbenchjj.mid
+28/02/2024  20:12            10,494 scdwackyworkbenchjw.mid
+28/02/2024  20:12             1,443 SCDZonecleared.mid
+28/02/2024  20:12            11,648 SCSatAM.mid
+27/03/2026  21:16             1,965 sdrift2.html
+28/02/2024  20:12            11,575 SE.mid
+27/03/2026  21:16             2,439 segasonic.html
+28/02/2024  20:12             1,214 sfgamestartek.mid
+28/02/2024  20:12               660 sfwinek.mid
+28/02/2024  20:12             2,281 sjabattleofsonicmetalsonicajf.mid
+28/02/2024  20:12             4,863 sjajourneytoeggmanlandajf.mid
+28/02/2024  20:12             6,092 sjajourneytoeggmanlandek.mid
+28/02/2024  20:12            11,472 SJMuseumtheme.mid
+28/02/2024  20:12             1,711 sk1upjw.mid
+28/02/2024  20:12            23,552 skcazurelake.mid
+28/02/2024  20:12            13,840 skcballoonpark.mid
+28/02/2024  20:12            21,292 skcbonus.mid
+28/02/2024  20:12             9,346 skcbonus2.mid
+28/02/2024  20:12            26,258 skccarnivalnight.mid
+28/02/2024  20:12            13,834 skccarnivalnight2.mid
+28/02/2024  20:12            21,173 skcdeathegg2.mid
+28/02/2024  20:12            20,072 skcdesertpalace.mid
+28/02/2024  20:12            24,947 skcdoomsday.mid
+28/02/2024  20:12             4,700 skcdrowning.mid
+28/02/2024  20:12            25,639 skcendlessmine.mid
+28/02/2024  20:12               687 skcextracontunue.mid
+28/02/2024  20:12             1,527 skcextralife.mid
+28/02/2024  20:12               986 skcextralife2.mid
+28/02/2024  20:12            18,822 skcflyingbattery.mid
+28/02/2024  20:12            12,852 skchydrocity2.mid
+28/02/2024  20:12            15,289 skcicecap.mid
+28/02/2024  20:12            16,114 skcicecap2.mid
+28/02/2024  20:12             7,074 skcknuckles.mid
+28/02/2024  20:12            10,987 skcknuckles2.mid
+28/02/2024  20:12            14,264 skclaunchbase.mid
+28/02/2024  20:12             8,861 skcmarblegarden2.mid
+28/02/2024  20:12            13,353 skcminiboss.mid
+28/02/2024  20:12            13,077 skcminibossr.mid
+28/02/2024  20:12            12,226 skcmushroomhill.mid
+28/02/2024  20:12            13,993 skcmushroomhill2.mid
+27/03/2026  21:16             8,341 skcollection.html
+28/02/2024  20:12            17,386 skcraceresults.mid
+28/02/2024  20:12            15,082 skcs3finalboss.mid
+28/02/2024  20:12             3,586 skcs3title.mid
+28/02/2024  20:12            12,835 skcsandopolis.mid
+28/02/2024  20:12             9,385 skcsandopolis2.mid
+28/02/2024  20:12            15,149 skcselectscreen.mid
+28/02/2024  20:12            13,335 skcselectscreen2.mid
+28/02/2024  20:12            39,890 skcskcredits.mid
+28/02/2024  20:12             5,453 skcsktitle.mid
+28/02/2024  20:12            16,047 skcspecial.mid
+28/02/2024  20:12             1,323 skcstageclear.mid
+28/02/2024  20:12            29,656 skdoomsday.mid
+28/02/2024  20:12            25,806 skdoomsdayjw.mid
+28/02/2024  20:12            14,243 skflyingbattery2jw.mid
+28/02/2024  20:12             7,515 skflyingbatteryjr.mid
+28/02/2024  20:12            14,168 skflyingbatteryjw.mid
+28/02/2024  20:12            26,611 skhiddenpalacejs.mid
+28/02/2024  20:12            18,982 sklavareef1jw.mid
+28/02/2024  20:12            10,582 skminibossjw.mid
+28/02/2024  20:12            16,884 skminibossk.mid
+28/02/2024  20:12            11,600 skminibossrjw.mid
+28/02/2024  20:12            11,945 skmushroomhill2jw.mid
+28/02/2024  20:12            11,152 sksandopolisjw.mid
+28/02/2024  20:12            10,317 sksnadopolis2jw.mid
+28/02/2024  20:12               588 skstageclearjr.mid
+28/02/2024  20:12             8,656 slidbar.gif
+28/02/2024  20:12             9,642 SMCDQuartzquadrantg.mid
+28/02/2024  20:12            23,211 smcdtidaltempestjw.mid
+28/02/2024  20:12            24,852 smcdtidaltempestpjw.mid
+28/02/2024  20:12            26,330 smcdwackyworkbenchpjw.mid
+28/02/2024  20:12             4,821 sonbar.gif
+27/03/2026  21:16             7,842 sonic1.html
+27/03/2026  21:16             9,668 sonic2.html
+27/03/2026  21:16             7,076 sonic3.html
+27/03/2026  21:16             6,176 soniccd.html
+27/03/2026  21:16             1,942 SonicFighters.html
+27/03/2026  21:16             1,623 sonicjam.html
+27/03/2026  21:16             1,800 sonicr.html
+27/03/2026  21:16             1,886 sonicrpg.html
+27/03/2026  21:16             3,976 sonknux.html
+27/03/2026  21:16             2,198 spinball.html
+28/02/2024  20:12             3,605 spinbar.gif
+28/02/2024  20:12             1,481 ssdangerjw.mid
+28/02/2024  20:12             1,380 ssemeraldsjw.mid
+28/02/2024  20:12            24,708 ssminibossek.mid
+28/02/2024  20:12             9,825 ssoptionsek.mid
+28/02/2024  20:12             2,584 sstitlejw.mid
+28/02/2024  20:12             2,741 sthemesongke.mid
+28/02/2024  20:12            10,100 taosthbadnikswa.mid
+28/02/2024  20:12             9,160 TC.mid
+28/02/2024  20:12            11,462 toxiccaves.mid
+28/02/2024  20:12            26,175 VSReturntothetoxiccaves.mid
+28/02/2024  20:12             9,766 VSSandopolis.mid
+28/02/2024  20:12             5,015 whnew2.gif
+28/02/2024  20:12             1,443 zoneclearjw.mid
+             270 File(s)      3,812,136 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Glade
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          8862
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Glade\8862
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            16,085 alps.gif
+27/03/2026  21:16            10,280 comixcontainment.html
+28/02/2024  20:12             8,367 erobo.jpg
+28/02/2024  20:12             4,196 firstsonic.html
+28/02/2024  20:12             3,434 gal_s1.jpg
+28/02/2024  20:12            38,557 Gravityman.mid
+28/02/2024  20:12            14,094 index.html
+28/02/2024  20:12             9,133 mechasonic.jpg
+28/02/2024  20:12             8,497 meppian.gif
+28/02/2024  20:12            21,182 soncrobo.jpg
+28/02/2024  20:12             5,993 sonic4.jpg
+28/02/2024  20:12             5,195 soniccars.jpg
+28/02/2024  20:12             4,920 sonicgrams.html
+28/02/2024  20:12             9,533 sonichit.gif
+28/02/2024  20:12             6,984 sonicjam2.jpg
+28/02/2024  20:12             4,302 sonicoverdrive.html
+28/02/2024  20:12            77,658 sonicthecomic.html
+              17 File(s)        248,410 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Tower
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          4309
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\EnchantedForest\Tower\4309
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            15,739 Aquaman.jpg
+28/02/2024  20:12            10,966 Arctic.mid
+28/02/2024  20:12            29,030 casinopolis.jpg
+28/02/2024  20:12            29,089 chao0.gif
+28/02/2024  20:12            11,106 crashb.gif
+28/02/2024  20:12            31,306 emeraldcoast.jpg
+28/02/2024  20:12            16,265 fedbag.gif
+28/02/2024  20:12             9,572 front2.gif
+27/03/2026  21:16            50,080 greatforest.html
+28/02/2024  20:12            19,347 Knuckles.jpg
+28/02/2024  20:12            20,394 lara108.jpg
+28/02/2024  20:12            28,940 mechasn3.jpg
+28/02/2024  20:12            23,781 mm3-snkm.mid
+28/02/2024  20:12            34,141 mm8Tengu.mid
+28/02/2024  20:12             5,943 ocean02.jpg
+28/02/2024  20:12             8,727 p_e-102.jpg
+28/02/2024  20:12            23,100 pigout.jpg
+28/02/2024  20:12            13,063 pikapet.jpg
+28/02/2024  20:12            29,853 rmfburner.mid
+28/02/2024  20:12            29,255 sat_sonicr_screenshot05.jpg
+28/02/2024  20:12             9,389 sonic.gif
+28/02/2024  20:12            10,935 sonic_ring.jpg
+28/02/2024  20:12            27,905 sonicadventure_logo.gif
+28/02/2024  20:12            45,532 top1127.jpg
+28/02/2024  20:12            17,385 track_1.jpg
+28/02/2024  20:12            19,276 track_2.jpg
+28/02/2024  20:12            13,552 track_3.jpg
+28/02/2024  20:12            16,600 track_4.jpg
+28/02/2024  20:12            24,907 twinklepark.jpg
+28/02/2024  20:12            33,504 windyvalley.jpg
+28/02/2024  20:12            16,718 wolfpack.jpg
+              31 File(s)        675,400 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\pictures
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          icons
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\pictures\icons
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          lines
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\pictures\icons\lines
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             2,243 rainbow_thinline.gif
+               1 File(s)          2,243 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\TimesSquare
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          Battlefield
+28/02/2024  20:12    <DIR>          Labyrinth
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\TimesSquare\Battlefield
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          1821
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\TimesSquare\Battlefield\1821
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             2,418 Ed1.txt
+28/02/2024  20:12             1,142 Ed10.txt
+28/02/2024  20:12             1,270 Ed11.txt
+28/02/2024  20:12             2,576 Ed12.txt
+28/02/2024  20:12             1,123 Ed13.txt
+28/02/2024  20:12             1,916 Ed14.txt
+28/02/2024  20:12             2,395 Ed15.txt
+28/02/2024  20:12             2,064 Ed16.txt
+28/02/2024  20:12             1,854 Ed17.txt
+28/02/2024  20:12             2,969 Ed18.txt
+28/02/2024  20:12             1,714 Ed19.txt
+28/02/2024  20:12             1,200 Ed3.txt
+28/02/2024  20:12             2,388 Ed4.txt
+28/02/2024  20:12             5,871 Ed5.txt
+28/02/2024  20:12             4,775 Ed7.txt
+28/02/2024  20:12               851 Ed8.txt
+28/02/2024  20:12             1,151 Ed9.txt
+27/03/2026  21:16             4,462 Editorials.html
+28/02/2024  20:12               959 index.html
+              19 File(s)         43,098 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\TimesSquare\Labyrinth
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          9396
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\geocities\TimesSquare\Labyrinth\9396
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             3,821 index.html
+               1 File(s)          3,821 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          Chibinine
+28/02/2024  20:12    <DIR>          sonichq
+28/02/2024  20:12    <DIR>          SonicXtreme
+28/02/2024  20:12    <DIR>          warpsonic
+               0 File(s)              0 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          banner_builder
+28/02/2024  20:12    <DIR>          New
+28/02/2024  20:12    <DIR>          PocketDragons
+28/02/2024  20:12    <DIR>          sttail
+28/02/2024  20:12    <DIR>          test
+28/02/2024  20:12            12,134 1.jpg
+28/02/2024  20:12             1,943 amgallery.html
+28/02/2024  20:12             6,516 aniico.gif
+28/02/2024  20:12             1,307 animeart.html
+28/02/2024  20:12             1,112 ant.html
+28/02/2024  20:12            29,054 antclip.jpg
+28/02/2024  20:12            27,112 anti-uni.gif
+28/02/2024  20:12            21,602 antscan.jpg
+28/02/2024  20:12            15,369 antscan2.jpg
+28/02/2024  20:12             1,241 arty.html
+28/02/2024  20:12            11,068 bannah.gif
+28/02/2024  20:12            17,551 bastthem.mid
+28/02/2024  20:12               703 bd.gif
+28/02/2024  20:12                53 beautifullife.ram
+28/02/2024  20:12            36,718 bittsymp.mid
+28/02/2024  20:12            30,780 bunant2.jpg
+28/02/2024  20:12            17,372 bunnie.jpg
+28/02/2024  20:12            11,486 bunyawn.jpg
+28/02/2024  20:12             2,723 catgodpoem.html
+28/02/2024  20:12             9,309 crimson.jpg
+28/02/2024  20:12             1,043 episodes.html
+28/02/2024  20:12             4,933 foxy.jpg
+28/02/2024  20:12            56,009 HOMELESS.GIF
+28/02/2024  20:12             1,846 index.html
+28/02/2024  20:12             1,148 index-a.html
+28/02/2024  20:12             1,983 indexg.html
+28/02/2024  20:12            24,753 jammer.jpg
+28/02/2024  20:12               814 julayla.html
+28/02/2024  20:12            14,621 julayla1.jpg
+28/02/2024  20:12            15,027 julayla2.jpg
+28/02/2024  20:12            16,297 julayla3.jpg
+28/02/2024  20:12            15,558 julayla4.jpg
+28/02/2024  20:12            22,657 julayla5.jpg
+28/02/2024  20:12            22,929 julayla6.jpg
+28/02/2024  20:12            15,231 kangaroo.jpg
+28/02/2024  20:12            14,434 kitten.jpg
+28/02/2024  20:12               484 linkbuttons.html
+28/02/2024  20:12            23,631 logo.gif
+28/02/2024  20:12             3,013 logoico.gif
+28/02/2024  20:12             1,609 main.html
+28/02/2024  20:12             2,193 maric1.txt
+28/02/2024  20:12            10,184 moi.jpg
+28/02/2024  20:12             1,680 mousico.gif
+28/02/2024  20:12             5,754 music.mid
+28/02/2024  20:12             7,971 muzak.html
+28/02/2024  20:12            24,953 myheart.mid
+28/02/2024  20:12             1,332 nimfi2.gif
+28/02/2024  20:12            33,089 numb.mid
+28/02/2024  20:12            14,758 palace.mid
+28/02/2024  20:12            20,993 phantasy.jpg
+28/02/2024  20:12            33,596 PICKPCKT.GIF
+28/02/2024  20:12            30,183 POWERWSH.GIF
+28/02/2024  20:12            12,516 rabbitlady.jpg
+28/02/2024  20:12            17,827 ratfink.jpg
+28/02/2024  20:12            12,200 reddwarf.mid
+28/02/2024  20:12             2,373 rend.htm
+28/02/2024  20:12             1,718 rr.html
+28/02/2024  20:12            12,618 runwus.mid
+28/02/2024  20:12            11,516 S3credit.mid
+28/02/2024  20:12            21,554 Sailorc.jpg
+28/02/2024  20:12             7,147 sally3.jpg
+28/02/2024  20:12             7,405 sally4.jpg
+28/02/2024  20:12            14,227 sally5.jpg
+28/02/2024  20:12             9,407 Sallycc.gif
+28/02/2024  20:12            21,256 sallypaint.jpg
+28/02/2024  20:12            14,649 Sangry.jpg
+28/02/2024  20:12            14,251 saturn.mid
+28/02/2024  20:12            19,304 saturn3.jpg
+28/02/2024  20:12            13,918 saturn4.jpg
+28/02/2024  20:12             1,415 scans.html
+28/02/2024  20:12             7,458 SCRY.JPG
+28/02/2024  20:12            17,304 shirori.jpg
+28/02/2024  20:12            12,910 shirori2.jpg
+28/02/2024  20:12               664 simpsons.html
+28/02/2024  20:12            12,106 sm3.jpg
+28/02/2024  20:12            20,889 smgroup.jpg
+28/02/2024  20:12               441 sonic.html
+28/02/2024  20:12             5,355 sonic7.jpg
+28/02/2024  20:12             5,478 sonic8.jpg
+28/02/2024  20:12             1,824 sonica.html
+28/02/2024  20:12             2,133 sonicart.html
+28/02/2024  20:12            17,583 SONICHED.GIF
+28/02/2024  20:12             3,087 sonique.html
+28/02/2024  20:12            18,074 sonlie.jpg
+28/02/2024  20:12            15,803 spacegirl.jpg
+28/02/2024  20:12             9,270 spoint.jpg
+28/02/2024  20:12             5,153 starmist.jpg
+28/02/2024  20:12               861 sweet.txt
+28/02/2024  20:12            11,663 th-banner.gif
+28/02/2024  20:12             7,909 th-canguru.gif
+28/02/2024  20:12             4,062 th-cyber.jpg
+28/02/2024  20:12             3,374 th-doodles.jpg
+28/02/2024  20:12             1,650 theme.html
+28/02/2024  20:12             4,499 th-erinv.jpg
+28/02/2024  20:12            13,628 thing.jpg
+28/02/2024  20:12            13,502 thinghed.jpg
+28/02/2024  20:12             3,999 th-jaxer.jpg
+28/02/2024  20:12             4,269 th-missy.jpg
+28/02/2024  20:12             3,405 th-psy.jpg
+28/02/2024  20:12             4,251 th-questa.jpg
+28/02/2024  20:12             4,919 th-questa2.jpg
+28/02/2024  20:12             8,748 th-rat.gif
+28/02/2024  20:12             6,525 th-rat2.gif
+28/02/2024  20:12             3,654 th-winx.jpg
+28/02/2024  20:12            13,723 tin.jpg
+28/02/2024  20:12            39,462 water.mid
+28/02/2024  20:12             2,729 who.html
+             107 File(s)      1,227,524 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine\banner_builder
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            11,068 bannah.gif
+28/02/2024  20:12               604 index.html
+28/02/2024  20:12            11,663 th-banner.gif
+               3 File(s)         23,335 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine\New
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            56,009 HOMELESS.GIF
+28/02/2024  20:12             2,662 index.html
+28/02/2024  20:12            33,596 PICKPCKT.GIF
+28/02/2024  20:12            30,183 POWERWSH.GIF
+28/02/2024  20:12            17,583 SONICHED.GIF
+               5 File(s)        140,033 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine\PocketDragons
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             1,043 episodes.html
+28/02/2024  20:12               821 index.html
+28/02/2024  20:12             1,609 main.html
+28/02/2024  20:12             1,650 theme.html
+28/02/2024  20:12             2,729 who.html
+               5 File(s)          7,852 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine\sttail
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12               355 index.html
+               1 File(s)            355 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\Chibinine\test
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12            12,134 1.jpg
+28/02/2024  20:12            36,718 bittsymp.mid
+28/02/2024  20:12             9,309 crimson.jpg
+28/02/2024  20:12             4,933 foxy.jpg
+28/02/2024  20:12             1,846 index.html
+28/02/2024  20:12            10,184 moi.jpg
+28/02/2024  20:12            12,516 rabbitlady.jpg
+28/02/2024  20:12            19,304 saturn3.jpg
+28/02/2024  20:12             7,458 SCRY.JPG
+28/02/2024  20:12            15,803 spacegirl.jpg
+28/02/2024  20:12            13,628 thing.jpg
+28/02/2024  20:12            39,462 water.mid
+              12 File(s)        183,295 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\sonichq
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12    <DIR>          archive
+28/02/2024  20:12    <DIR>          images
+28/02/2024  20:12    <DIR>          interviews
+28/02/2024  20:12    <DIR>          tempimages
+27/03/2026  21:16            16,294 archive.html
+27/03/2026  21:16            16,304 crew.html
+27/03/2026  21:16            17,706 index.html
+27/03/2026  21:16            15,784 interviews.html
+27/03/2026  21:16            17,444 links.html
+               5 File(s)         83,532 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\sonichq\archive
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+27/03/2026  21:16            58,343 10_98.html
+27/03/2026  21:16            69,766 11_98.html
+27/03/2026  21:16            52,161 12_98.html
+27/03/2026  21:16            39,844 9-2_98.html
+               4 File(s)        220,114 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\sonichq\images
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             4,917 Archive.gif
+28/02/2024  20:12             1,005 bluebar.gif
+28/02/2024  20:12             5,936 Interviews.gif
+28/02/2024  20:12             5,393 Links.gif
+28/02/2024  20:12             5,227 Meetstaff.gif
+28/02/2024  20:12             4,064 SNP.gif
+28/02/2024  20:12            16,557 Soniclogo.gif
+               7 File(s)         43,099 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\sonichq\interviews
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+27/03/2026  21:16            20,023 Interview_MettleSonic.html
+27/03/2026  21:16            24,654 Interview_Naka1.html
+27/03/2026  21:16            22,995 interview_Ruby.html
+               3 File(s)         67,672 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\sonichq\tempimages
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12             2,251 Temp_Ruby.gif
+               1 File(s)          2,251 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\SonicXtreme
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12           194,683 sonicxtreme.gif
+28/02/2024  20:12               695 tiberian.htm
+28/02/2024  20:12             1,294 Xtreme.htm
+               3 File(s)        196,672 bytes
+
+ Directory of D:\Git Stuff\srb20ya.github.io\shqarch\v1\tripod\warpsonic
+
+28/02/2024  20:12    <DIR>          .
+28/02/2024  20:12    <DIR>          ..
+28/02/2024  20:12           141,527 22.gif
+27/03/2026  21:16             7,604 archive.html
+28/02/2024  20:12            93,055 bunniegetzap.jpg
+27/03/2026  21:16             3,224 comicscans.html
+28/02/2024  20:12           205,347 death1.jpg
+28/02/2024  20:12           190,110 death2.jpg
+28/02/2024  20:12           189,404 death3.jpg
+28/02/2024  20:12            84,278 enerjakprofile.jpg
+28/02/2024  20:12            32,014 futureff.jpg
+28/02/2024  20:12           212,548 master1.jpg
+28/02/2024  20:12           197,280 master2.jpg
+28/02/2024  20:12           187,808 master3.jpg
+28/02/2024  20:12           244,384 mechpage.jpg
+27/03/2026  21:16            11,953 pendersint.html
+27/03/2026  21:16             4,247 preview.html
+27/03/2026  21:16            13,754 review.html
+28/02/2024  20:12               399 ring.gif
+28/02/2024  20:12             2,753 sonianm.gif
+28/02/2024  20:12            55,522 SonicBlast.gif
+27/03/2026  21:16             9,784 sonicscans.html
+28/02/2024  20:12           206,315 turbo.jpg
+              21 File(s)      2,093,310 bytes
+
+     Total Files Listed:
+             995 File(s)     17,931,931 bytes
